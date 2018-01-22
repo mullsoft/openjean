@@ -1,0 +1,30 @@
+/* Catalog: favourites */
+body,div
+{
+	background-color: #ffcccc;
+}
+
+.oj-button-label
+{
+	background-color: #ffcccc;
+}
+
+.oj-panel-heading
+{
+	background-color: #ffcccc;
+}
+
+.filter-menu-list
+{
+	background-color: #ffcccc;
+}
+
+.filter-class-entity
+{
+	background-color: #ffcccc;
+}
+
+#oj-get-title-button
+{
+	margin-left:5px;
+}

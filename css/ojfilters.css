@@ -1,0 +1,115 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 21-Dec-2016, 13:50:01
+    Author     : mike
+*/
+
+.filter-panel-body
+{
+/*	max-height:15em; */
+	overflow-y: auto;
+	padding-bottom:0px;
+	margin-bottom:0px;
+}
+
+#filter-values
+{
+	width:100%;
+	height:50vh;
+	overflow-y:auto;
+}
+
+#filter-values-list
+{
+	height:40vh;
+	max-height:40vh;
+}
+
+.filter-menu-draggable.over {
+	border: 2px dashed #0c0c0c;
+}
+
+.filter-menu-list {
+	list-style:none; 
+	padding-left:0px;
+}
+
+.header-button
+{
+	display:inline-block;
+/*	float:right;*/
+}
+
+.select-all-button
+{
+	margin-right:2px;
+}
+
+.reset-all-button
+{
+	display:none;
+}
+
+.filter-label-all
+{
+	display:inline-block;
+	margin-left: 5px;
+}
+.filter-menu-value
+{
+	margin-bottom:5px;
+}
+
+.filter-menu-checkbox-plus
+{
+  -ms-transform: scale(1.5); /* IE */
+  -moz-transform: scale(1.5); /* FF */
+  -webkit-transform: scale(1.5); /* Safari and Chrome */
+  -o-transform: scale(1.5); /* Opera */
+  padding: 10px;
+  margin-right:5px;
+}
+
+.open-close
+{
+/*	font-size: 1.2em; */
+	display:inline-block;
+	margin-right:5px;
+	margin-left:5px;
+	text-decoration: none;
+	min-width:90%;
+}
+
+.open-close:hover
+{
+	text-decoration: none;
+}
+
+.open-close:focus
+{
+	text-decoration: none;
+}
+
+.filter-invisible
+{
+	display:none;
+}
+
+/*
+div.filter-label-all { display: block; margin-left: 25px; font-weight: normal; }
+input.filter-menu-checkbox { display: block; float: left; }
+
+div.filter-panel-body { padding-right: 2px; }
+div.panel-body { max-height: 70vh; }
+div.panel-body div.panel { border: none; margin-left: 20px; box-shadow: none; }
+div.panel-body div.panel-heading { background: white; margin: 0; border-left: 1px solid #aaa; border-radius: 0; margin: 0; padding-top: 0; padding-right: 0; }
+div.panel-body div.panel div.panel-heading h2.panel-title { font-size: 14px; color: #aaa; font-style: italic; }
+div.panel-body div.panel div.panel-body { max-height: none; border-left: 1px solid #aaa; border-top: none; padding-bottom: 0; padding-right: 0; }
+
+div.panel-body .panel-default>.panel-heading+.panel-collapse>.panel-body { border-top: none; }
+div.panel-body .filter-menu-not-draggable > .panel-collapse { margin-bottom: 10px; }
+*/

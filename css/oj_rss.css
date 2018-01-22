@@ -1,0 +1,73 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 22-Jun-2017, 12:18:40
+    Author     : mike
+*/
+body,div
+{
+	background-color: #ffff99;
+}
+
+.oj-button-label
+{
+	background-color: #ffff99;
+}
+
+.oj-panel-heading
+{
+	background-color: #ffff99;
+}
+
+.filter-menu-list
+{
+	background-color: #ffff99;
+}
+
+.filter-class-entity
+{
+	background-color: #ffff99;
+}
+
+.oj-rss-viewed
+{
+	color:red;
+}
+
+.oj-rss-notviewed
+{
+	color:green;
+}
+
+.oj-rss-lnkdiv
+{
+	margin-left:10px;
+}
+
+.oj-rss-contents
+{
+	margin-left:2px;
+	padding-left:3px;
+	padding-right:3px;
+	max-height: 85%;
+	overflow:auto;
+}
+
+.has-unread
+{
+	border: 1px solid green !important;
+}
+
+#oj-button-group-feeds
+{
+	padding-bottom:5px;
+}
+
+#oj-button-label-feeds
+{
+	width:4em;
+}
+

@@ -1,1 +1,406 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 04-Sep-2016, 14:42:26
+    Author     : mike
+*/
+html,body {
 
+   height: 100%;
+   width: 100%;
+
+}
+
+#debug
+{
+	display:none;
+}
+
+.oj-scroll-button
+{
+	vertical-align: bottom;
+	margin-bottom:5px;
+}
+
+#oj-catalog-list
+{
+	overflow-y:auto;
+	overflow-x:hidden;
+	height:90vh;
+	max-height:90vh;
+	min-height:90vh;
+	border:2px black solid;
+	padding-top: 5px;
+	padding-bottom: 3px;
+	padding-left: 2px;
+	padding-right:0px;
+}
+
+#oj-display-panel
+{
+	overflow-y:auto;
+	height:90vh;
+	max-height:90vh;
+	min-height:90vh;
+	border:2px black solid;
+	padding-top: 5px;
+	padding-bottom: 3px;
+	padding-left: 2px;
+	padding-right:2px;
+}
+
+.oj-initial-display
+{
+	font-family: garamond;
+	font-size: 3em;
+	font-style: italic;
+	display:inline-block;
+	width:100%;
+	text-align: center;
+}
+
+.oj-catalog-list-class, .oj-new-category-div-class
+{
+	width:90%;
+	margin-right:10px !important;
+}
+
+.oj-catalog-list-class .panel
+{
+	margin-bottom:1px;
+}
+
+.oj-strong
+{
+	font-style:italic;
+	font-weight:bold;
+}
+
+.oj-component-label
+{
+	width: 100%;
+}
+
+.oj-component-label textarea
+{
+	height: 10em;
+	vertical-align:middle;
+}
+
+.oj-labelled-object-text
+{
+	display:inline-block;
+	padding-right:10px;
+	text-align: right;
+	width : 20%;
+}
+.oj-display
+{
+	width: 75%;
+}
+
+.oj-page
+{
+	min-height:75vh;
+}
+
+.oj-iframe-container
+{
+	min-height:75vh;
+}
+
+.oj-display-container
+{
+	min-height:100%;
+}
+
+.oj-display-container .tab-content
+{
+	min-height:90%;
+}
+
+iframe.oj-iframe-display
+{
+	width:100%;
+	min-height:75vh;
+	max-height:75vh;
+	overflow: scroll;
+}
+
+.oj-labelled-object-container
+{
+	margin-top: 5px;
+	color:#0f0f0f;
+	width : 100%;
+}
+
+.container
+{
+	min-width:98vw;
+}
+
+.oj-image
+{
+	width:95%;
+}
+
+.oj-display-container
+{
+	width:98%;
+	min-width:98%;
+	max-width:98%;
+}
+
+.oj-image-container
+{
+	width:100%;
+	margin-top:5px;
+}
+
+.filter-selection-container
+{
+	display:none;
+}
+
+.select-all-button
+{
+	display:none;
+}
+
+.reset-all-button
+{
+	display:none;
+}
+
+.oj-label-span
+{
+	display:inline-block;
+	margin-left:5px;
+}
+
+#oj-unimported-folders
+{
+	max-height:12em;
+	min-height:12em;
+	width:98%;
+	padding-top:5px;
+	padding-bottom:2px;
+	padding-left:3px;
+	padding-right:2px;
+	margin-top:10px;
+	border: 2px gray solid;
+	overflow:auto;
+}
+
+#oj-import-category-div
+{
+	max-height:14em;
+	min-height:14em;
+	width:98%;
+	padding-top:5px;
+	padding-bottom:2px;
+	padding-left:3px;
+	padding-right:2px;
+	margin-top:10px;
+	border: 2px gray solid;
+	overflow:auto;
+}
+
+.oj-selected
+{
+	font-style: italic;
+}
+
+.modal div
+{
+	background-color: #ccffcc;
+}
+
+div.filter-label-all
+{
+	background-color: inherit;
+	width: 95%;
+}
+div.oj-panel-heading
+{
+    overflow: hidden;
+    white-space: nowrap;
+	text-overflow: ellipsis;
+	padding-bottom:5px;
+	padding-top:5px;
+	padding-left:5px;
+	padding-right:5px;
+}
+
+.filter-menu-item
+{
+    overflow: hidden;
+    white-space: nowrap;
+	text-overflow: ellipsis;
+}
+
+.panel-title
+{
+    white-space: nowrap;
+/*	max-width:95%; */
+	margin-right:0px;
+}
+
+.panel-title a
+{
+/*	max-width:90%; */
+}
+
+span.filter-label-text
+{
+	display:inline-block;
+    overflow: hidden;
+    white-space: nowrap;
+	text-overflow: ellipsis;
+	max-width:100%;
+}
+
+span.filter-label-post
+{
+	display:inline-block;
+    overflow: hidden;
+    white-space: nowrap;
+	text-overflow: ellipsis;
+	max-width:100%;
+	margin-left:0.5em;
+}
+
+label.filter-menu-label
+{
+	max-width:90%;
+	min-width:90%;
+	margin-bottom:0px;
+}
+
+div.filter-menu-value
+{
+	line-height: 1.1em;
+}
+
+#oj-please-wait-contents
+{
+	font-size: 1.5em;
+	font-style: italic;
+}
+
+#oj-select-entity-contents
+{
+	max-height: 50vh;
+	overflow: auto;
+}
+
+[draggable] {
+  -moz-user-select: none;
+  -khtml-user-select: none;
+  -webkit-user-select: none;
+  user-select: none;
+  /* Required to make elements draggable in old WebKit */
+  -khtml-user-drag: element;
+  -webkit-user-drag: element;
+}
+
+.oj-button-group {
+    border: 1px solid grey;
+	border-radius: 5px;
+	display:inline-block;
+	padding-left: 5px;
+	padding-right:5px;
+	padding-bottom:2px;
+	margin-bottom:2px;
+}
+
+.oj-button-label
+{
+	font-size: 0.7em;
+	margin-top: -0.7em;
+	margin-bottom:0px;
+	text-align:center;
+	padding-top:0px;
+	padding-bottom:0px;
+}
+
+#oj-button-label-catalog
+{
+	width:5em;
+}
+
+#oj-select-entity-extra
+{
+	width:100%;
+	border-top: 1px solid grey;
+	padding-top:3px;
+}
+
+.oj-select-extra-label{
+	width:20%;
+	text-align:right;
+}
+
+.oj-select-extra-label span
+{
+	display:inline-block;
+	padding-left:5px;
+	padding-right:5px;
+	width:100%;
+}
+
+.oj-subtype-list
+{
+	margin-left:10px;
+}
+
+#oj-new-entity-tab-content
+{
+	width:100%;
+	min-height:10em;
+}
+
+#oj-select-entity-attributes
+{
+	width:100%;
+	margin-top:5px;
+	border-top: 1px solid grey;
+	padding-top:3px;
+}
+
+.oj-labelled-object-container .oj-input
+{
+	width: 60%;
+}
+
+#oj-make-note-textarea
+{
+	width:500;
+	height:400;
+	min-width:500;
+	min-height:400;
+}
+
+#navbar-identification
+{
+	padding-left:5px;
+}
+
+#oj-new-item-name
+{
+	width:50%;
+}
+
+.oj-input-group
+{
+	display:inline-block;
+	width:72%;
+}
+
+.oj-dropdown-text
+{
+	width:60% !important;
+}
