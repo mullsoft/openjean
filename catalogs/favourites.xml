@@ -1,0 +1,32 @@
+<catalog name="Favourites">
+	<entity type="1" catalog="0">
+		<name>default-CATEGORY</name>
+		<pages>
+		</pages>
+		<links></links>
+		<children></children>
+	</entity>
+	<entity type="2" catalog="0">
+		<name>default-GROUP</name>
+		<pages>
+		</pages>
+		<links></links>
+		<children></children>
+	</entity>
+	<entity type="3" catalog="0">
+		<name>default-ITEM</name>
+		<pages>
+			<page name="site" visible="1">
+				<attribute type="URL" visible="1" ordinal="1">
+					<name>link</name>
+					<value></value>
+				</attribute>
+			</page>
+		</pages>
+		<links></links>
+		<children></children>
+	</entity>
+	<parameters>
+		<parameter name="linkComparator" type="string">dictionary|dictionary|dictionary</parameter>
+	</parameters>
+</catalog>

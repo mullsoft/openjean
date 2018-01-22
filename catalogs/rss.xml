@@ -1,0 +1,58 @@
+<catalog name="RSS">
+	<entity type="1" catalog="0">
+		<name>default-CATEGORY</name>
+		<pages>
+		</pages>
+		<links></links>
+		<children></children>
+	</entity>
+	<entity type="2" catalog="0">
+		<name>default-GROUP</name>
+		<pages>
+			<page name="channel" visible="0">
+				<attribute type="URL" visible="0" ordinal="0">
+					<name>feed</name>
+					<value></value>
+				</attribute>
+			</page>
+			<page name="content" visible="1">
+				<attribute type="text" visible="1" ordinal="0">
+					<name>description</name>
+					<value></value>
+				</attribute>
+			</page>
+		</pages>
+		<links></links>
+		<children></children>
+	</entity>
+	<entity type="3" catalog="0">
+		<name>default-ITEM</name>
+		<pages>
+			<page name="detail" visible="0">
+				<attribute type="URL" visible="1" ordinal="0">
+					<name>link</name>
+					<value></value>
+				</attribute>
+				<attribute type="string" visible="1" ordinal="1">
+					<name>id</name>
+					<value></value>
+				</attribute>
+				<attribute type="datetime" visible="1" ordinal="1">
+					<name>published</name>
+					<value></value>
+				</attribute>
+			</page>
+			<page name="content" visible="1">
+				<attribute type="html" visible="1" ordinal="1">
+					<name>description</name>
+					<value></value>
+				</attribute>
+			</page>
+		</pages>
+		<links></links>
+		<children></children>
+	</entity>
+	<parameters>
+		<parameter name="linkComparator" type="string">default|dictionary|dictionary</parameter>
+	</parameters>
+</catalog>

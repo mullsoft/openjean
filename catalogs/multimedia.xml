@@ -1,0 +1,118 @@
+<catalog name="Multimedia">
+	<entity type="1" catalog="1">
+		<name>default-CATEGORY</name>
+		<pages>
+			<page name="images" visible="1"></page>
+		</pages>
+		<links></links>
+		<children></children>
+	</entity>
+	<entity type="2" catalog="1">
+		<name>default-GROUP</name>
+		<pages>
+			<page name="artists" visible="0"></page>
+			<page name="detail" visible="1">
+				<attribute type="integer" visible="1" ordinal="5">
+					<name>duration</name>
+					<value></value>
+				</attribute>
+				<attribute type="string" visible="1" ordinal="1">
+					<name>title</name>
+					<value></value>
+				</attribute>
+				<attribute type="URL" visible="1" ordinal="6">
+					<name>website</name>
+					<value></value>
+				</attribute>
+				<attribute type="string" visible="1" ordinal="8">
+					<name>contentGain</name>
+					<value></value>
+				</attribute>
+				<attribute type="integer" visible="1" ordinal="9">
+					<name>setid</name>
+					<value>0</value>
+				</attribute>
+				<attribute type="boolean" visible="1" ordinal="4">
+					<name>variousArtists</name>
+					<value>false</value>
+				</attribute>
+				<attribute type="string" visible="1" ordinal="0">
+					<name>artist</name>
+					<value></value>
+				</attribute>
+				<attribute type="number" visible="1" ordinal="7">
+					<name>gain</name>
+					<value>0.85</value>
+				</attribute>
+			</page>
+			<page name="images" visible="0"></page>
+		</pages>
+		<links></links>
+		<children></children>
+	</entity>
+	<entity type="3" catalog="1">
+		<name>default-ITEM</name>
+		<pages>
+			<page name="artists" visible="0"></page>
+			<page name="detail" visible="1">
+				<attribute type="integer" visible="1" ordinal="4">
+					<name>duration</name>
+					<value></value>
+				</attribute>
+				<attribute type="string" visible="1" ordinal="1">
+					<name>title</name>
+					<value></value>
+				</attribute>
+				<attribute type="integer" visible="1" ordinal="5">
+					<name>length</name>
+					<value></value>
+				</attribute>
+				<attribute type="audio" visible="1" ordinal="2">
+					<name>track</name>
+					<value></value>
+				</attribute>
+				<attribute type="boolean" visible="1" ordinal="3">
+					<name>variousArtists</name>
+					<value>false</value>
+				</attribute>
+				<attribute type="string" visible="1" ordinal="0">
+					<name>artist</name>
+					<value></value>
+				</attribute>
+				<attribute type="number" visible="1" ordinal="7">
+					<name>gain</name>
+					<value>0.85</value>
+				</attribute>
+			</page>
+		</pages>
+		<links></links>
+		<children></children>
+	</entity>
+	<parameters>
+		<parameter name="bgcolor" type="string">#dcaafa</parameter>
+		<parameter name="ignoreThe" type="string">group|category</parameter>
+		<parameter name="image-radio" type="string">true|radio.png</parameter>
+		<parameter name="image-item" type="string">true|item.gif</parameter>
+		<parameter name="ATTRIBUTENAME-GROUP-TYPE" type="string">type::type</parameter>
+		<parameter name="radios" type="string">19878,19879,19880,19881,19882,19883,19884,19886,19887,19888,19889,19897,20919</parameter>
+		<parameter name="ITEMSMUSTBEINGROUPS" type="boolean">true</parameter>
+		<parameter name="uitheme" type="string">south-street</parameter>
+		<parameter name="image-track" type="string">true|track.gif</parameter>
+		<parameter name="ATTRIBUTENAME-CATEGORY-TYPE" type="string">type::type</parameter>
+		<parameter name="image-album" type="string">true|album.gif</parameter>
+		<parameter name="jean-nextid" type="integer">217151</parameter>
+		<parameter name="linkComparator" type="string">default|dictionary|dictionary</parameter>
+		<parameter name="categoryName" type="string">genre</parameter>
+		<parameter name="groupName" type="string">album</parameter>
+		<parameter name="playerType" type="string">mplayer</parameter>
+		<parameter name="lastSelectedArtist" type="string">/audio:CATEGORY/Folk:CATEGORY</parameter>
+		<parameter name="image-category" type="string">false|category.gif</parameter>
+		<parameter name="image-CATEGORY" type="string">false|category.gif</parameter>
+		<parameter name="image-index" type="string">false|index.gif</parameter>
+		<parameter name="ATTRIBUTENAME-ITEM-TOOLTIP" type="string">detail::track</parameter>
+		<parameter name="image-group" type="string">true|group.gif</parameter>
+		<parameter name="image-root" type="string">false|root.gif</parameter>
+		<parameter name="lastaccess" type="Date_Time">2015-03-16 13:22:04</parameter>
+		<parameter name="soundMixerInfo" type="string">default [default], version</parameter>
+	</parameters>
+</catalog>

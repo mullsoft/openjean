@@ -1,0 +1,52 @@
+<catalog name="notes">
+	<entity type="1" catalog="0">
+		<name>default-CATEGORY</name>
+		<pages>
+		</pages>
+		<links></links>
+		<children></children>
+	</entity>
+	<entity type="2" catalog="0">
+		<name>default-GROUP</name>
+		<pages>
+			<page name="detail" visible="1">
+				<attribute type="string" visible="1" ordinal="0">
+					<name>title</name>
+					<value></value>
+				</attribute>
+			</page>
+		</pages>
+		<links></links>
+		<children></children>
+	</entity>
+	<entity type="3" catalog="0">
+		<name>default-ITEM</name>
+		<pages>
+			<page name="detail" visible="0">
+				<attribute type="string" visible="1" ordinal="1">
+					<name>title</name>
+					<value></value>
+				</attribute>
+				<attribute type="datetime" visible="1" ordinal="1">
+					<name>created</name>
+					<value></value>
+				</attribute>
+				<attribute type="datetime" visible="1" ordinal="1">
+					<name>modified</name>
+					<value></value>
+				</attribute>
+			</page>
+			<page name="content" visible="1">
+				<attribute type="html" visible="1" ordinal="1">
+					<name>content</name>
+					<value></value>
+				</attribute>
+			</page>
+		</pages>
+		<links></links>
+		<children></children>
+	</entity>
+	<parameters>
+		<parameter name="linkComparator" type="string">default|default|dictionary</parameter>
+	</parameters>
+</catalog>

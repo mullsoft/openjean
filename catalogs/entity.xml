@@ -1,0 +1,43 @@
+<entity type="2" catalog="1">
+	<name>test1</name>
+	<pages>
+		<page name="detail" visible="1">
+			<attribute type="string" visible="1" ordinal="1">
+				<name>title</name>
+				<value>test1</value>
+			</attribute>
+			<attribute type="boolean" visible="1" ordinal="3">
+				<name>variousArtists</name>
+				<value>true</value>
+			</attribute>
+			<attribute type="string" visible="1" ordinal="0">
+				<name>artist</name>
+				<value>Various Artists</value>
+			</attribute>
+			<attribute type="number" visible="1" ordinal="7">
+				<name>gain</name>
+				<value>0.85</value>
+			</attribute>
+			<attribute type="URL" visible="1" ordinal="6">
+				<name>website</name>
+				<value/>
+			</attribute>
+			<attribute type="string" visible="1" ordinal="8">
+				<name>contentGain</name>
+				<value/>
+			</attribute>
+		</page>
+	</pages>
+	<links>
+		<link direction="from" catalog="1" ordinal="0" hidden="0" other="6311">test1</link>
+		<link direction="to" catalog="1" ordinal="0" hidden="0" other="76959">01 You Lied<tooltip>76948::The 52nd Street Blues Project -  Blues &amp; Grass (2004) (HD)</tooltip></link>
+		<link direction="to" catalog="1" ordinal="1" hidden="0" other="76956">02 Queen Esther's Blues<tooltip>76948::The 52nd Street Blues Project -  Blues &amp; Grass (2004) (HD)</tooltip></link>
+		<link direction="to" catalog="1" ordinal="2" hidden="0" other="74319">03 Sound &amp; Color<tooltip>74307::Alabama Shakes - Sound &amp; Color (2015) (HD)</tooltip></link>
+		<link direction="to" catalog="1" ordinal="3" hidden="0" other="74318">04 Don't Wanna Fight<tooltip>74307::Alabama Shakes - Sound &amp; Color (2015) (HD)</tooltip></link>
+	</links>
+	<children>
+		<entity>
+			
+		</entity>
+	</children>
+</entity>

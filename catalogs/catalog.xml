@@ -1,1 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
 
+
+<catalog name="xxx">
+	<entity type="1" catalog="0">
+		<pages>
+			<page name="detail" visible="1">
+				<attribute type="string" visible="1" ordinal="1">
+					<name>title</name>
+					<value>test1</value>
+				</attribute>
+			</page>
+		</pages>
+	</entity>
+	<entity type="2" catalog="0">
+		<pages>
+			<page name="detail" visible="1">
+				<attribute type="string" visible="1" ordinal="1">
+					<name>title</name>
+					<value>test1</value>
+				</attribute>
+			</page>
+		</pages>
+	</entity>
+	<entity type="3" catalog="0">
+		<pages>
+			<page name="detail" visible="1">
+				<attribute type="string" visible="1" ordinal="1">
+					<name>title</name>
+					<value>test1</value>
+				</attribute>
+			</page>
+		</pages>
+	</entity>
+	<parameters>
+		<parameter name="xxx" type="yyy">
+			
+		</parameter>
+	</parameters>
+</catalog>
