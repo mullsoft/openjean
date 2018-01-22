@@ -1,0 +1,28 @@
+#!/usr/bin/php -q
+<?php
+
+chdir("/var/www/html/openjean");
+require_once("ojEntity_xml.php");
+//require_once("ojEntity_db.php");
+$ojid = 0;
+if ($argc > 1)
+{
+	$catalogname = $argv[1];
+	if ($argc > 2)
+	{
+		$ojid = intval($argv[2]);
+	}
+	$catalog = OJ_System::instance("mike")->get_catalog($catalogname);
+	$iter = new OJ_Iterator($catalog, $ojid);
+	foreach ($iter as $k=>$v)
+	{
+		if (!array_key_exists("type", $v))
+		{
+			$v['type'] = "unknown";
+		}
+		print $v['name']."\t".$v['type']."\t".$k."\t".$catalogname."\n";
+//		$ent = $catalog->get_entity($k);
+//		var_dump($ent->get_attributes());
+	}
+}
+

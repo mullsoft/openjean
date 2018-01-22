@@ -1,0 +1,43 @@
+#!/usr/bin/php -q
+<?php
+
+chdir("/var/www/html/openjean");
+ini_set('memory_limit', '1024M');
+require_once("OJImportExport.php");
+if ($argc > 1)
+{
+	$user = "mike";
+	$eid = 0;
+	$optind = 0;
+	$opts = getopt('c:u:e:r:o:', [], $optind);
+	$cats = [];
+	if (array_key_exists('c', $opts))
+	{
+		$cnames = explode(',', $opts['c']);
+		foreach ($cnames as $cname)
+		{
+			$cats[] = new OJ_Catalogs(["name" => ucfirst($cname)]);
+		}
+	}
+	else
+	{
+		$cats = OJ_Catalogs::get_all_catalogs();
+	}
+	if (array_key_exists('u', $opts))
+	{
+		$user = $opts['u'];
+	}
+	if (array_key_exists('e', $opts))
+	{
+		$eid = $opts['e'];
+	}
+	$restart = array_key_exists('r', $opts);
+	$omit = null;
+	if (array_key_exists('o', $opts))
+	{
+		$omit = $opts['o'];
+	}
+	$newargv = array_slice($argv, $optind);
+//var_dump($newargv); var_dump($cats);exit;
+	OJ_Importer::import($user, $cats, $eid, $newargv, $restart, $omit);
+}
