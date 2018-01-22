@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+
+
+<entity type="" catalog="">
+	<name></name>
+	<pages>
+		<page name="" visible="true">
+			<attribute type="" visible="true" ordinal="0">
+				<name></name>
+				<value></value>
+			</attribute>
+		</page>
+	</pages>
+	<links>
+		<link direction="from|to" catalog="" other="" ordinal="0" hidden="0">name</link>
+	</links>
+	<children>
+		<entity></entity>
+	</children>
+</entity>

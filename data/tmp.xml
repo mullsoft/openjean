@@ -1,0 +1,2807 @@
+<entity type="1" catalog="1" subtype="audio_boxset(audio_genre|audio_boxset|radio_genre|video_genre|video_series)">
+	<name>Miles Davis - The Last Word, The Warner Bros. Years (2015) (HD)</name>
+	<pages>
+		<page name="images" visible="1">
+			<attribute type="string" visible="1" ordinal="0">
+				<name>FRONT</name>
+				<value>${music29}Miles Davis - The Last Word, The Warner Bros. Years (2015) (HD)/FRONT.jpg</value>
+			</attribute>
+			<attribute type="string" visible="1" ordinal="0">
+				<name>The Last Word- The Warner Bros. Years - sleeve</name>
+				<value>${music29}Miles Davis - The Last Word, The Warner Bros. Years (2015) (HD)/The Last Word- The Warner Bros. Years - sleeve.jpg</value>
+			</attribute>
+			<attribute type="string" visible="1" ordinal="0">
+				<name>folder</name>
+				<value>${music29}Miles Davis - The Last Word, The Warner Bros. Years (2015) (HD)/folder.jpg</value>
+			</attribute>
+		</page>
+	</pages>
+	<links>
+		<link direction="to" type="child" catalog="1" ordinal="0" hidden="0" other="96214"/>
+		<link direction="to" catalog="1" ordinal="0" hidden="0" other="3256" type="member" subtype="solo artist"></link>
+	</links>
+	<children>
+		<entity type="2" catalog="1" subtype="boxset_element(album|boxset_element|playlist|radio|film|video|episode)">
+			<name>Disc 1 - Tutu</name>
+			<pages>
+				<page name="detail" visible="1">
+					<attribute type="string" visible="1" ordinal="1">
+						<name>title</name>
+						<value>Disc 1 - Tutu</value>
+					</attribute>
+					<attribute type="boolean" visible="1" ordinal="3">
+						<name>variousArtists</name>
+						<value>false</value>
+					</attribute>
+					<attribute type="string" visible="1" ordinal="0">
+						<name>artist</name>
+						<value>Disc 1</value>
+					</attribute>
+					<attribute type="number" visible="1" ordinal="7">
+						<name>gain</name>
+						<value>0.85</value>
+					</attribute>
+					<attribute type="URL" visible="1" ordinal="6">
+						<name>website</name>
+						<value/>
+					</attribute>
+					<attribute type="string" visible="1" ordinal="8">
+						<name>contentGain</name>
+						<value/>
+					</attribute>
+				</page>
+				<page name="images" visible="1"></page>
+				<page name="notes" visible="1"></page>
+			</pages>
+			<links/>
+			<children>
+				<entity type="3" catalog="1">
+					<name>01 - Tutu</name>
+					<pages>
+						<page name="detail" visible="1">
+							<attribute type="string" visible="1" ordinal="1">
+								<name>title</name>
+								<value>01 - Tutu</value>
+							</attribute>
+							<attribute type="audio" visible="1" ordinal="2">
+								<name>track</name>
+								<value>${music29}Miles Davis - The Last Word, The Warner Bros. Years (2015) (HD)/Disc 1 - Tutu/01 - Tutu.flac</value>
+							</attribute>
+							<attribute type="integer" visible="1" ordinal="4">
+								<name>duration</name>
+								<value>316987</value>
+							</attribute>
+							<attribute type="string" visible="1" ordinal="0">
+								<name>artist</name>
+								<value>Disc 1</value>
+							</attribute>
+							<attribute type="number" visible="1" ordinal="7">
+								<name>gain</name>
+								<value>0.85</value>
+							</attribute>
+						</page>
+					</pages>
+					<links/>
+					<children/>
+				</entity>
+				<entity type="3" catalog="1">
+					<name>02 - Tomaas</name>
+					<pages>
+						<page name="detail" visible="1">
+							<attribute type="string" visible="1" ordinal="1">
+								<name>title</name>
+								<value>02 - Tomaas</value>
+							</attribute>
+							<attribute type="audio" visible="1" ordinal="2">
+								<name>track</name>
+								<value>${music29}Miles Davis - The Last Word, The Warner Bros. Years (2015) (HD)/Disc 1 - Tutu/02 - Tomaas.flac</value>
+							</attribute>
+							<attribute type="integer" visible="1" ordinal="4">
+								<name>duration</name>
+								<value>337813</value>
+							</attribute>
+							<attribute type="string" visible="1" ordinal="0">
+								<name>artist</name>
+								<value>Disc 1</value>
+							</attribute>
+							<attribute type="number" visible="1" ordinal="7">
+								<name>gain</name>
+								<value>0.85</value>
+							</attribute>
+						</page>
+					</pages>
+					<links/>
+					<children/>
+				</entity>
+				<entity type="3" catalog="1">
+					<name>03 - Portia</name>
+					<pages>
+						<page name="detail" visible="1">
+							<attribute type="string" visible="1" ordinal="1">
+								<name>title</name>
+								<value>03 - Portia</value>
+							</attribute>
+							<attribute type="audio" visible="1" ordinal="2">
+								<name>track</name>
+								<value>${music29}Miles Davis - The Last Word, The Warner Bros. Years (2015) (HD)/Disc 1 - Tutu/03 - Portia.flac</value>
+							</attribute>
+							<attribute type="integer" visible="1" ordinal="4">
+								<name>duration</name>
+								<value>378773</value>
+							</attribute>
+							<attribute type="string" visible="1" ordinal="0">
+								<name>artist</name>
+								<value>Disc 1</value>
+							</attribute>
+							<attribute type="number" visible="1" ordinal="7">
+								<name>gain</name>
+								<value>0.85</value>
+							</attribute>
+						</page>
+					</pages>
+					<links/>
+					<children/>
+				</entity>
+				<entity type="3" catalog="1">
+					<name>04 - Splatch</name>
+					<pages>
+						<page name="detail" visible="1">
+							<attribute type="string" visible="1" ordinal="1">
+								<name>title</name>
+								<value>04 - Splatch</value>
+							</attribute>
+							<attribute type="audio" visible="1" ordinal="2">
+								<name>track</name>
+								<value>${music29}Miles Davis - The Last Word, The Warner Bros. Years (2015) (HD)/Disc 1 - Tutu/04 - Splatch.flac</value>
+							</attribute>
+							<attribute type="integer" visible="1" ordinal="4">
+								<name>duration</name>
+								<value>285187</value>
+							</attribute>
+							<attribute type="string" visible="1" ordinal="0">
+								<name>artist</name>
+								<value>Disc 1</value>
+							</attribute>
+							<attribute type="number" visible="1" ordinal="7">
+								<name>gain</name>
+								<value>0.85</value>
+							</attribute>
+						</page>
+					</pages>
+					<links/>
+					<children/>
+				</entity>
+				<entity type="3" catalog="1">
+					<name>05 - Backyard Ritual</name>
+					<pages>
+						<page name="detail" visible="1">
+							<attribute type="string" visible="1" ordinal="1">
+								<name>title</name>
+								<value>05 - Backyard Ritual</value>
+							</attribute>
+							<attribute type="audio" visible="1" ordinal="2">
+								<name>track</name>
+								<value>${music29}Miles Davis - The Last Word, The Warner Bros. Years (2015) (HD)/Disc 1 - Tutu/05 - Backyard Ritual.flac</value>
+							</attribute>
+							<attribute type="integer" visible="1" ordinal="4">
+								<name>duration</name>
+								<value>290227</value>
+							</attribute>
+							<attribute type="string" visible="1" ordinal="0">
+								<name>artist</name>
+								<value>Disc 1</value>
+							</attribute>
+							<attribute type="number" visible="1" ordinal="7">
+								<name>gain</name>
+								<value>0.85</value>
+							</attribute>
+						</page>
+					</pages>
+					<links/>
+					<children/>
+				</entity>
+				<entity type="3" catalog="1">
+					<name>06 - Perfect Way</name>
+					<pages>
+						<page name="detail" visible="1">
+							<attribute type="string" visible="1" ordinal="1">
+								<name>title</name>
+								<value>06 - Perfect Way</value>
+							</attribute>
+							<attribute type="audio" visible="1" ordinal="2">
+								<name>track</name>
+								<value>${music29}Miles Davis - The Last Word, The Warner Bros. Years (2015) (HD)/Disc 1 - Tutu/06 - Perfect Way.flac</value>
+							</attribute>
+							<attribute type="integer" visible="1" ordinal="4">
+								<name>duration</name>
+								<value>276000</value>
+							</attribute>
+							<attribute type="string" visible="1" ordinal="0">
+								<name>artist</name>
+								<value>Disc 1</value>
+							</attribute>
+							<attribute type="number" visible="1" ordinal="7">
+								<name>gain</name>
+								<value>0.85</value>
+							</attribute>
+						</page>
+					</pages>
+					<links/>
+					<children/>
+				</entity>
+				<entity type="3" catalog="1">
+					<name>07 - Don't Lose Your Mind</name>
+					<pages>
+						<page name="detail" visible="1">
+							<attribute type="string" visible="1" ordinal="1">
+								<name>title</name>
+								<value>07 - Don't Lose Your Mind</value>
+							</attribute>
+							<attribute type="audio" visible="1" ordinal="2">
+								<name>track</name>
+								<value>${music29}Miles Davis - The Last Word, The Warner Bros. Years (2015) (HD)/Disc 1 - Tutu/07 - Don't Lose Your Mind.flac</value>
+							</attribute>
+							<attribute type="integer" visible="1" ordinal="4">
+								<name>duration</name>
+								<value>350627</value>
+							</attribute>
+							<attribute type="string" visible="1" ordinal="0">
+								<name>artist</name>
+								<value>Disc 1</value>
+							</attribute>
+							<attribute type="number" visible="1" ordinal="7">
+								<name>gain</name>
+								<value>0.85</value>
+							</attribute>
+						</page>
+					</pages>
+					<links/>
+					<children/>
+				</entity>
+				<entity type="3" catalog="1">
+					<name>08 - Full Nelson</name>
+					<pages>
+						<page name="detail" visible="1">
+							<attribute type="string" visible="1" ordinal="1">
+								<name>title</name>
+								<value>08 - Full Nelson</value>
+							</attribute>
+							<attribute type="audio" visible="1" ordinal="2">
+								<name>track</name>
+								<value>${music29}Miles Davis - The Last Word, The Warner Bros. Years (2015) (HD)/Disc 1 - Tutu/08 - Full Nelson.flac</value>
+							</attribute>
+							<attribute type="integer" visible="1" ordinal="4">
+								<name>duration</name>
+								<value>306395</value>
+							</attribute>
+							<attribute type="string" visible="1" ordinal="0">
+								<name>artist</name>
+								<value>Disc 1</value>
+							</attribute>
+							<attribute type="number" visible="1" ordinal="7">
+								<name>gain</name>
+								<value>0.85</value>
+							</attribute>
+						</page>
+					</pages>
+					<links/>
+					<children/>
+				</entity>
+			</children>
+		</entity>
+		<entity type="2" catalog="1" subtype="boxset_element(album|boxset_element|playlist|radio|film|video|episode)">
+			<name>Disc 2 - Music From Siesta (With Marcus Miller)</name>
+			<pages>
+				<page name="detail" visible="1">
+					<attribute type="string" visible="1" ordinal="1">
+						<name>title</name>
+						<value>Disc 2 - Music From Siesta (With Marcus Miller)</value>
+					</attribute>
+					<attribute type="boolean" visible="1" ordinal="3">
+						<name>variousArtists</name>
+						<value>false</value>
+					</attribute>
+					<attribute type="string" visible="1" ordinal="0">
+						<name>artist</name>
+						<value>Disc 2</value>
+					</attribute>
+					<attribute type="number" visible="1" ordinal="7">
+						<name>gain</name>
+						<value>0.85</value>
+					</attribute>
+					<attribute type="URL" visible="1" ordinal="6">
+						<name>website</name>
+						<value/>
+					</attribute>
+					<attribute type="string" visible="1" ordinal="8">
+						<name>contentGain</name>
+						<value/>
+					</attribute>
+				</page>
+				<page name="images" visible="1"></page>
+				<page name="notes" visible="1"></page>
+			</pages>
+			<links/>
+			<children>
+				<entity type="3" catalog="1">
+					<name>01 - Lost In Madrid Part I</name>
+					<pages>
+						<page name="detail" visible="1">
+							<attribute type="string" visible="1" ordinal="1">
+								<name>title</name>
+								<value>01 - Lost In Madrid Part I</value>
+							</attribute>
+							<attribute type="audio" visible="1" ordinal="2">
+								<name>track</name>
+								<value>${music29}Miles Davis - The Last Word, The Warner Bros. Years (2015) (HD)/Disc 2 - Music From Siesta (With Marcus Miller)/01 - Lost In Madrid Part I.flac</value>
+							</attribute>
+							<attribute type="integer" visible="1" ordinal="4">
+								<name>duration</name>
+								<value>108738</value>
+							</attribute>
+							<attribute type="string" visible="1" ordinal="0">
+								<name>artist</name>
+								<value>Disc 2</value>
+							</attribute>
+							<attribute type="number" visible="1" ordinal="7">
+								<name>gain</name>
+								<value>0.85</value>
+							</attribute>
+						</page>
+					</pages>
+					<links/>
+					<children/>
+				</entity>
+				<entity type="3" catalog="1">
+					<name>02 - Siesta - Kitt's Kiss - Lost In Madrid Part II</name>
+					<pages>
+						<page name="detail" visible="1">
+							<attribute type="string" visible="1" ordinal="1">
+								<name>title</name>
+								<value>02 - Siesta - Kitt's Kiss - Lost In Madrid Part II</value>
+							</attribute>
+							<attribute type="audio" visible="1" ordinal="2">
+								<name>track</name>
+								<value>${music29}Miles Davis - The Last Word, The Warner Bros. Years (2015) (HD)/Disc 2 - Music From Siesta (With Marcus Miller)/02 - Siesta - Kitt's Kiss - Lost In Madrid Part II.flac</value>
+							</attribute>
+							<attribute type="integer" visible="1" ordinal="4">
+								<name>duration</name>
+								<value>415040</value>
+							</attribute>
+							<attribute type="string" visible="1" ordinal="0">
+								<name>artist</name>
+								<value>Disc 2</value>
+							</attribute>
+							<attribute type="number" visible="1" ordinal="7">
+								<name>gain</name>
+								<value>0.85</value>
+							</attribute>
+						</page>
+					</pages>
+					<links/>
+					<children/>
+				</entity>
+				<entity type="3" catalog="1">
+					<name>03 - Theme For Augustine - Wind - Seduction - Kiss</name>
+					<pages>
+						<page name="detail" visible="1">
+							<attribute type="string" visible="1" ordinal="1">
+								<name>title</name>
+								<value>03 - Theme For Augustine - Wind - Seduction - Kiss</value>
+							</attribute>
+							<attribute type="audio" visible="1" ordinal="2">
+								<name>track</name>
+								<value>${music29}Miles Davis - The Last Word, The Warner Bros. Years (2015) (HD)/Disc 2 - Music From Siesta (With Marcus Miller)/03 - Theme For Augustine - Wind - Seduction - Kiss.flac</value>
+							</attribute>
+							<attribute type="integer" visible="1" ordinal="4">
+								<name>duration</name>
+								<value>393613</value>
+							</attribute>
+							<attribute type="string" visible="1" ordinal="0">
+								<name>artist</name>
+								<value>Disc 2</value>
+							</attribute>
+							<attribute type="number" visible="1" ordinal="7">
+								<name>gain</name>
+								<value>0.85</value>
+							</attribute>
+						</page>
+					</pages>
+					<links/>
+					<children/>
+				</entity>
+				<entity type="3" catalog="1">
+					<name>04 - Submission</name>
+					<pages>
+						<page name="detail" visible="1">
+							<attribute type="string" visible="1" ordinal="1">
+								<name>title</name>
+								<value>04 - Submission</value>
+							</attribute>
+							<attribute type="audio" visible="1" ordinal="2">
+								<name>track</name>
+								<value>${music29}Miles Davis - The Last Word, The Warner Bros. Years (2015) (HD)/Disc 2 - Music From Siesta (With Marcus Miller)/04 - Submission.flac</value>
+							</attribute>
+							<attribute type="integer" visible="1" ordinal="4">
+								<name>duration</name>
+								<value>151827</value>
+							</attribute>
+							<attribute type="string" visible="1" ordinal="0">
+								<name>artist</name>
+								<value>Disc 2</value>
+							</attribute>
+							<attribute type="number" visible="1" ordinal="7">
+								<name>gain</name>
+								<value>0.85</value>
+							</attribute>
+						</page>
+					</pages>
+					<links/>
+					<children/>
+				</entity>
+				<entity type="3" catalog="1">
+					<name>05 - Lost In Madrid Part III</name>
+					<pages>
+						<page name="detail" visible="1">
+							<attribute type="string" visible="1" ordinal="1">
+								<name>title</name>
+								<value>05 - Lost In Madrid Part III</value>
+							</attribute>
+							<attribute type="audio" visible="1" ordinal="2">
+								<name>track</name>
+								<value>${music29}Miles Davis - The Last Word, The Warner Bros. Years (2015) (HD)/Disc 2 - Music From Siesta (With Marcus Miller)/05 - Lost In Madrid Part III.flac</value>
+							</attribute>
+							<attribute type="integer" visible="1" ordinal="4">
+								<name>duration</name>
+								<value>49613</value>
+							</attribute>
+							<attribute type="string" visible="1" ordinal="0">
+								<name>artist</name>
+								<value>Disc 2</value>
+							</attribute>
+							<attribute type="number" visible="1" ordinal="7">
+								<name>gain</name>
+								<value>0.85</value>
+							</attribute>
+						</page>
+					</pages>
+					<links/>
+					<children/>
+				</entity>
+				<entity type="3" catalog="1">
+					<name>06 - Conchita - Lament</name>
+					<pages>
+						<page name="detail" visible="1">
+							<attribute type="string" visible="1" ordinal="1">
+								<name>title</name>
+								<value>06 - Conchita - Lament</value>
+							</attribute>
+							<attribute type="audio" visible="1" ordinal="2">
+								<name>track</name>
+								<value>${music29}Miles Davis - The Last Word, The Warner Bros. Years (2015) (HD)/Disc 2 - Music From Siesta (With Marcus Miller)/06 - Conchita - Lament.flac</value>
+							</attribute>
+							<attribute type="integer" visible="1" ordinal="4">
+								<name>duration</name>
+								<value>404360</value>
+							</attribute>
+							<attribute type="string" visible="1" ordinal="0">
+								<name>artist</name>
+								<value>Disc 2</value>
+							</attribute>
+							<attribute type="number" visible="1" ordinal="7">
+								<name>gain</name>
+								<value>0.85</value>
+							</attribute>
+						</page>
+					</pages>
+					<links/>
+					<children/>
+				</entity>
+				<entity type="3" catalog="1">
+					<name>07 - Lost In Madrid Part IV - Rat Dance - The Call</name>
+					<pages>
+						<page name="detail" visible="1">
+							<attribute type="string" visible="1" ordinal="1">
+								<name>title</name>
+								<value>07 - Lost In Madrid Part IV - Rat Dance - The Call</value>
+							</attribute>
+							<attribute type="audio" visible="1" ordinal="2">
+								<name>track</name>
+								<value>${music29}Miles Davis - The Last Word, The Warner Bros. Years (2015) (HD)/Disc 2 - Music From Siesta (With Marcus Miller)/07 - Lost In Madrid Part IV - Rat Dance - The Call.flac</value>
+							</attribute>
+							<attribute type="integer" visible="1" ordinal="4">
+								<name>duration</name>
+								<value>101387</value>
+							</attribute>
+							<attribute type="string" visible="1" ordinal="0">
+								<name>artist</name>
+								<value>Disc 2</value>
+							</attribute>
+							<attribute type="number" visible="1" ordinal="7">
+								<name>gain</name>
+								<value>0.85</value>
+							</attribute>
+						</page>
+					</pages>
+					<links/>
+					<children/>
+				</entity>
+				<entity type="3" catalog="1">
+					<name>08 - Claire - Lost In Madrid Part V</name>
+					<pages>
+						<page name="detail" visible="1">
+							<attribute type="string" visible="1" ordinal="1">
+								<name>title</name>
+								<value>08 - Claire - Lost In Madrid Part V</value>
+							</attribute>
+							<attribute type="audio" visible="1" ordinal="2">
+								<name>track</name>
+								<value>${music29}Miles Davis - The Last Word, The Warner Bros. Years (2015) (HD)/Disc 2 - Music From Siesta (With Marcus Miller)/08 - Claire - Lost In Madrid Part V.flac</value>
+							</attribute>
+							<attribute type="integer" visible="1" ordinal="4">
+								<name>duration</name>
+								<value>273587</value>
+							</attribute>
+							<attribute type="string" visible="1" ordinal="0">
+								<name>artist</name>
+								<value>Disc 2</value>
+							</attribute>
+							<attribute type="number" visible="1" ordinal="7">
+								<name>gain</name>
+								<value>0.85</value>
+							</attribute>
+						</page>
+					</pages>
+					<links/>
+					<children/>
+				</entity>
+				<entity type="3" catalog="1">
+					<name>09 - Afterglow</name>
+					<pages>
+						<page name="detail" visible="1">
+							<attribute type="string" visible="1" ordinal="1">
+								<name>title</name>
+								<value>09 - Afterglow</value>
+							</attribute>
+							<attribute type="audio" visible="1" ordinal="2">
+								<name>track</name>
+								<value>${music29}Miles Davis - The Last Word, The Warner Bros. Years (2015) (HD)/Disc 2 - Music From Siesta (With Marcus Miller)/09 - Afterglow.flac</value>
+							</attribute>
+							<attribute type="integer" visible="1" ordinal="4">
+								<name>duration</name>
+								<value>101227</value>
+							</attribute>
+							<attribute type="string" visible="1" ordinal="0">
+								<name>artist</name>
+								<value>Disc 2</value>
+							</attribute>
+							<attribute type="number" visible="1" ordinal="7">
+								<name>gain</name>
+								<value>0.85</value>
+							</attribute>
+						</page>
+					</pages>
+					<links/>
+					<children/>
+				</entity>
+				<entity type="3" catalog="1">
+					<name>10 - Los Feliz</name>
+					<pages>
+						<page name="detail" visible="1">
+							<attribute type="string" visible="1" ordinal="1">
+								<name>title</name>
+								<value>10 - Los Feliz</value>
+							</attribute>
+							<attribute type="audio" visible="1" ordinal="2">
+								<name>track</name>
+								<value>${music29}Miles Davis - The Last Word, The Warner Bros. Years (2015) (HD)/Disc 2 - Music From Siesta (With Marcus Miller)/10 - Los Feliz.flac</value>
+							</attribute>
+							<attribute type="integer" visible="1" ordinal="4">
+								<name>duration</name>
+								<value>275349</value>
+							</attribute>
+							<attribute type="string" visible="1" ordinal="0">
+								<name>artist</name>
+								<value>Disc 2</value>
+							</attribute>
+							<attribute type="number" visible="1" ordinal="7">
+								<name>gain</name>
+								<value>0.85</value>
+							</attribute>
+						</page>
+					</pages>
+					<links/>
+					<children/>
+				</entity>
+			</children>
+		</entity>
+		<entity type="2" catalog="1" subtype="boxset_element(album|boxset_element|playlist|radio|film|video|episode)">
+			<name>Disc 3 - Amandla</name>
+			<pages>
+				<page name="detail" visible="1">
+					<attribute type="string" visible="1" ordinal="1">
+						<name>title</name>
+						<value>Disc 3 - Amandla</value>
+					</attribute>
+					<attribute type="boolean" visible="1" ordinal="3">
+						<name>variousArtists</name>
+						<value>false</value>
+					</attribute>
+					<attribute type="string" visible="1" ordinal="0">
+						<name>artist</name>
+						<value>Disc 3</value>
+					</attribute>
+					<attribute type="number" visible="1" ordinal="7">
+						<name>gain</name>
+						<value>0.85</value>
+					</attribute>
+					<attribute type="URL" visible="1" ordinal="6">
+						<name>website</name>
+						<value/>
+					</attribute>
+					<attribute type="string" visible="1" ordinal="8">
+						<name>contentGain</name>
+						<value/>
+					</attribute>
+				</page>
+				<page name="images" visible="1"></page>
+				<page name="notes" visible="1"></page>
+			</pages>
+			<links/>
+			<children>
+				<entity type="3" catalog="1">
+					<name>01 - Catembe</name>
+					<pages>
+						<page name="detail" visible="1">
+							<attribute type="string" visible="1" ordinal="1">
+								<name>title</name>
+								<value>01 - Catembe</value>
+							</attribute>
+							<attribute type="audio" visible="1" ordinal="2">
+								<name>track</name>
+								<value>${music29}Miles Davis - The Last Word, The Warner Bros. Years (2015) (HD)/Disc 3 - Amandla/01 - Catembe.flac</value>
+							</attribute>
+							<attribute type="integer" visible="1" ordinal="4">
+								<name>duration</name>
+								<value>337147</value>
+							</attribute>
+							<attribute type="string" visible="1" ordinal="0">
+								<name>artist</name>
+								<value>Disc 3</value>
+							</attribute>
+							<attribute type="number" visible="1" ordinal="7">
+								<name>gain</name>
+								<value>0.85</value>
+							</attribute>
+						</page>
+					</pages>
+					<links/>
+					<children/>
+				</entity>
+				<entity type="3" catalog="1">
+					<name>02 - Cobra</name>
+					<pages>
+						<page name="detail" visible="1">
+							<attribute type="string" visible="1" ordinal="1">
+								<name>title</name>
+								<value>02 - Cobra</value>
+							</attribute>
+							<attribute type="audio" visible="1" ordinal="2">
+								<name>track</name>
+								<value>${music29}Miles Davis - The Last Word, The Warner Bros. Years (2015) (HD)/Disc 3 - Amandla/02 - Cobra.flac</value>
+							</attribute>
+							<attribute type="integer" visible="1" ordinal="4">
+								<name>duration</name>
+								<value>316440</value>
+							</attribute>
+							<attribute type="string" visible="1" ordinal="0">
+								<name>artist</name>
+								<value>Disc 3</value>
+							</attribute>
+							<attribute type="number" visible="1" ordinal="7">
+								<name>gain</name>
+								<value>0.85</value>
+							</attribute>
+						</page>
+					</pages>
+					<links/>
+					<children/>
+				</entity>
+				<entity type="3" catalog="1">
+					<name>03 - Big Time</name>
+					<pages>
+						<page name="detail" visible="1">
+							<attribute type="string" visible="1" ordinal="1">
+								<name>title</name>
+								<value>03 - Big Time</value>
+							</attribute>
+							<attribute type="audio" visible="1" ordinal="2">
+								<name>track</name>
+								<value>${music29}Miles Davis - The Last Word, The Warner Bros. Years (2015) (HD)/Disc 3 - Amandla/03 - Big Time.flac</value>
+							</attribute>
+							<attribute type="integer" visible="1" ordinal="4">
+								<name>duration</name>
+								<value>341440</value>
+							</attribute>
+							<attribute type="string" visible="1" ordinal="0">
+								<name>artist</name>
+								<value>Disc 3</value>
+							</attribute>
+							<attribute type="number" visible="1" ordinal="7">
+								<name>gain</name>
+								<value>0.85</value>
+							</attribute>
+						</page>
+					</pages>
+					<links/>
+					<children/>
+				</entity>
+				<entity type="3" catalog="1">
+					<name>04 - Hannibal</name>
+					<pages>
+						<page name="detail" visible="1">
+							<attribute type="string" visible="1" ordinal="1">
+								<name>title</name>
+								<value>04 - Hannibal</value>
+							</attribute>
+							<attribute type="audio" visible="1" ordinal="2">
+								<name>track</name>
+								<value>${music29}Miles Davis - The Last Word, The Warner Bros. Years (2015) (HD)/Disc 3 - Amandla/04 - Hannibal.flac</value>
+							</attribute>
+							<attribute type="integer" visible="1" ordinal="4">
+								<name>duration</name>
+								<value>351240</value>
+							</attribute>
+							<attribute type="string" visible="1" ordinal="0">
+								<name>artist</name>
+								<value>Disc 3</value>
+							</attribute>
+							<attribute type="number" visible="1" ordinal="7">
+								<name>gain</name>
+								<value>0.85</value>
+							</attribute>
+						</page>
+					</pages>
+					<links/>
+					<children/>
+				</entity>
+				<entity type="3" catalog="1">
+					<name>05 - Jo-Jo</name>
+					<pages>
+						<page name="detail" visible="1">
+							<attribute type="string" visible="1" ordinal="1">
+								<name>title</name>
+								<value>05 - Jo-Jo</value>
+							</attribute>
+							<attribute type="audio" visible="1" ordinal="2">
+								<name>track</name>
+								<value>${music29}Miles Davis - The Last Word, The Warner Bros. Years (2015) (HD)/Disc 3 - Amandla/05 - Jo-Jo.flac</value>
+							</attribute>
+							<attribute type="integer" visible="1" ordinal="4">
+								<name>duration</name>
+								<value>292213</value>
+							</attribute>
+							<attribute type="string" visible="1" ordinal="0">
+								<name>artist</name>
+								<value>Disc 3</value>
+							</attribute>
+							<attribute type="number" visible="1" ordinal="7">
+								<name>gain</name>
+								<value>0.85</value>
+							</attribute>
+						</page>
+					</pages>
+					<links/>
+					<children/>
+				</entity>
+				<entity type="3" catalog="1">
+					<name>06 - Amandla</name>
+					<pages>
+						<page name="detail" visible="1">
+							<attribute type="string" visible="1" ordinal="1">
+								<name>title</name>
+								<value>06 - Amandla</value>
+							</attribute>
+							<attribute type="audio" visible="1" ordinal="2">
+								<name>track</name>
+								<value>${music29}Miles Davis - The Last Word, The Warner Bros. Years (2015) (HD)/Disc 3 - Amandla/06 - Amandla.flac</value>
+							</attribute>
+							<attribute type="integer" visible="1" ordinal="4">
+								<name>duration</name>
+								<value>320587</value>
+							</attribute>
+							<attribute type="string" visible="1" ordinal="0">
+								<name>artist</name>
+								<value>Disc 3</value>
+							</attribute>
+							<attribute type="number" visible="1" ordinal="7">
+								<name>gain</name>
+								<value>0.85</value>
+							</attribute>
+						</page>
+					</pages>
+					<links/>
+					<children/>
+				</entity>
+				<entity type="3" catalog="1">
+					<name>07 - Jilli</name>
+					<pages>
+						<page name="detail" visible="1">
+							<attribute type="string" visible="1" ordinal="1">
+								<name>title</name>
+								<value>07 - Jilli</value>
+							</attribute>
+							<attribute type="audio" visible="1" ordinal="2">
+								<name>track</name>
+								<value>${music29}Miles Davis - The Last Word, The Warner Bros. Years (2015) (HD)/Disc 3 - Amandla/07 - Jilli.flac</value>
+							</attribute>
+							<attribute type="integer" visible="1" ordinal="4">
+								<name>duration</name>
+								<value>305800</value>
+							</attribute>
+							<attribute type="string" visible="1" ordinal="0">
+								<name>artist</name>
+								<value>Disc 3</value>
+							</attribute>
+							<attribute type="number" visible="1" ordinal="7">
+								<name>gain</name>
+								<value>0.85</value>
+							</attribute>
+						</page>
+					</pages>
+					<links/>
+					<children/>
+				</entity>
+				<entity type="3" catalog="1">
+					<name>08 - Mr. Pastorius</name>
+					<pages>
+						<page name="detail" visible="1">
+							<attribute type="string" visible="1" ordinal="1">
+								<name>title</name>
+								<value>08 - Mr. Pastorius</value>
+							</attribute>
+							<attribute type="audio" visible="1" ordinal="2">
+								<name>track</name>
+								<value>${music29}Miles Davis - The Last Word, The Warner Bros. Years (2015) (HD)/Disc 3 - Amandla/08 - Mr. Pastorius.flac</value>
+							</attribute>
+							<attribute type="integer" visible="1" ordinal="4">
+								<name>duration</name>
+								<value>342807</value>
+							</attribute>
+							<attribute type="string" visible="1" ordinal="0">
+								<name>artist</name>
+								<value>Disc 3</value>
+							</attribute>
+							<attribute type="number" visible="1" ordinal="7">
+								<name>gain</name>
+								<value>0.85</value>
+							</attribute>
+						</page>
+					</pages>
+					<links/>
+					<children/>
+				</entity>
+			</children>
+		</entity>
+		<entity type="2" catalog="1" subtype="boxset_element(album|boxset_element|playlist|radio|film|video|episode)">
+			<name>Disc 4 - Dingo Original Soundtrack (With Michele Legrand)</name>
+			<pages>
+				<page name="detail" visible="1">
+					<attribute type="string" visible="1" ordinal="1">
+						<name>title</name>
+						<value>Disc 4 - Dingo Original Soundtrack (With Michele Legrand)</value>
+					</attribute>
+					<attribute type="boolean" visible="1" ordinal="3">
+						<name>variousArtists</name>
+						<value>false</value>
+					</attribute>
+					<attribute type="string" visible="1" ordinal="0">
+						<name>artist</name>
+						<value>Disc 4</value>
+					</attribute>
+					<attribute type="number" visible="1" ordinal="7">
+						<name>gain</name>
+						<value>0.85</value>
+					</attribute>
+					<attribute type="URL" visible="1" ordinal="6">
+						<name>website</name>
+						<value/>
+					</attribute>
+					<attribute type="string" visible="1" ordinal="8">
+						<name>contentGain</name>
+						<value/>
+					</attribute>
+				</page>
+				<page name="images" visible="1"></page>
+				<page name="notes" visible="1"></page>
+			</pages>
+			<links/>
+			<children>
+				<entity type="3" catalog="1">
+					<name>01 - Kimberley Trumpet</name>
+					<pages>
+						<page name="detail" visible="1">
+							<attribute type="string" visible="1" ordinal="1">
+								<name>title</name>
+								<value>01 - Kimberley Trumpet</value>
+							</attribute>
+							<attribute type="audio" visible="1" ordinal="2">
+								<name>track</name>
+								<value>${music29}Miles Davis - The Last Word, The Warner Bros. Years (2015) (HD)/Disc 4 - Dingo Original Soundtrack (With Michele Legrand)/01 - Kimberley Trumpet.flac</value>
+							</attribute>
+							<attribute type="integer" visible="1" ordinal="4">
+								<name>duration</name>
+								<value>150173</value>
+							</attribute>
+							<attribute type="string" visible="1" ordinal="0">
+								<name>artist</name>
+								<value>Disc 4</value>
+							</attribute>
+							<attribute type="number" visible="1" ordinal="7">
+								<name>gain</name>
+								<value>0.85</value>
+							</attribute>
+						</page>
+					</pages>
+					<links/>
+					<children/>
+				</entity>
+				<entity type="3" catalog="1">
+					<name>02 - The Arrival</name>
+					<pages>
+						<page name="detail" visible="1">
+							<attribute type="string" visible="1" ordinal="1">
+								<name>title</name>
+								<value>02 - The Arrival</value>
+							</attribute>
+							<attribute type="audio" visible="1" ordinal="2">
+								<name>track</name>
+								<value>${music29}Miles Davis - The Last Word, The Warner Bros. Years (2015) (HD)/Disc 4 - Dingo Original Soundtrack (With Michele Legrand)/02 - The Arrival.flac</value>
+							</attribute>
+							<attribute type="integer" visible="1" ordinal="4">
+								<name>duration</name>
+								<value>127293</value>
+							</attribute>
+							<attribute type="string" visible="1" ordinal="0">
+								<name>artist</name>
+								<value>Disc 4</value>
+							</attribute>
+							<attribute type="number" visible="1" ordinal="7">
+								<name>gain</name>
+								<value>0.85</value>
+							</attribute>
+						</page>
+					</pages>
+					<links/>
+					<children/>
+				</entity>
+				<entity type="3" catalog="1">
+					<name>03 - Concert On The Runway</name>
+					<pages>
+						<page name="detail" visible="1">
+							<attribute type="string" visible="1" ordinal="1">
+								<name>title</name>
+								<value>03 - Concert On The Runway</value>
+							</attribute>
+							<attribute type="audio" visible="1" ordinal="2">
+								<name>track</name>
+								<value>${music29}Miles Davis - The Last Word, The Warner Bros. Years (2015) (HD)/Disc 4 - Dingo Original Soundtrack (With Michele Legrand)/03 - Concert On The Runway.flac</value>
+							</attribute>
+							<attribute type="integer" visible="1" ordinal="4">
+								<name>duration</name>
+								<value>256347</value>
+							</attribute>
+							<attribute type="string" visible="1" ordinal="0">
+								<name>artist</name>
+								<value>Disc 4</value>
+							</attribute>
+							<attribute type="number" visible="1" ordinal="7">
+								<name>gain</name>
+								<value>0.85</value>
+							</attribute>
+						</page>
+					</pages>
+					<links/>
+					<children/>
+				</entity>
+				<entity type="3" catalog="1">
+					<name>04 - The Departure</name>
+					<pages>
+						<page name="detail" visible="1">
+							<attribute type="string" visible="1" ordinal="1">
+								<name>title</name>
+								<value>04 - The Departure</value>
+							</attribute>
+							<attribute type="audio" visible="1" ordinal="2">
+								<name>track</name>
+								<value>${music29}Miles Davis - The Last Word, The Warner Bros. Years (2015) (HD)/Disc 4 - Dingo Original Soundtrack (With Michele Legrand)/04 - The Departure.flac</value>
+							</attribute>
+							<attribute type="integer" visible="1" ordinal="4">
+								<name>duration</name>
+								<value>119213</value>
+							</attribute>
+							<attribute type="string" visible="1" ordinal="0">
+								<name>artist</name>
+								<value>Disc 4</value>
+							</attribute>
+							<attribute type="number" visible="1" ordinal="7">
+								<name>gain</name>
+								<value>0.85</value>
+							</attribute>
+						</page>
+					</pages>
+					<links/>
+					<children/>
+				</entity>
+				<entity type="3" catalog="1">
+					<name>05 - Dingo Howl</name>
+					<pages>
+						<page name="detail" visible="1">
+							<attribute type="string" visible="1" ordinal="1">
+								<name>title</name>
+								<value>05 - Dingo Howl</value>
+							</attribute>
+							<attribute type="audio" visible="1" ordinal="2">
+								<name>track</name>
+								<value>${music29}Miles Davis - The Last Word, The Warner Bros. Years (2015) (HD)/Disc 4 - Dingo Original Soundtrack (With Michele Legrand)/05 - Dingo Howl.flac</value>
+							</attribute>
+							<attribute type="integer" visible="1" ordinal="4">
+								<name>duration</name>
+								<value>40707</value>
+							</attribute>
+							<attribute type="string" visible="1" ordinal="0">
+								<name>artist</name>
+								<value>Disc 4</value>
+							</attribute>
+							<attribute type="number" visible="1" ordinal="7">
+								<name>gain</name>
+								<value>0.85</value>
+							</attribute>
+						</page>
+					</pages>
+					<links/>
+					<children/>
+				</entity>
+				<entity type="3" catalog="1">
+					<name>06 - Letter As Hero</name>
+					<pages>
+						<page name="detail" visible="1">
+							<attribute type="string" visible="1" ordinal="1">
+								<name>title</name>
+								<value>06 - Letter As Hero</value>
+							</attribute>
+							<attribute type="audio" visible="1" ordinal="2">
+								<name>track</name>
+								<value>${music29}Miles Davis - The Last Word, The Warner Bros. Years (2015) (HD)/Disc 4 - Dingo Original Soundtrack (With Michele Legrand)/06 - Letter As Hero.flac</value>
+							</attribute>
+							<attribute type="integer" visible="1" ordinal="4">
+								<name>duration</name>
+								<value>82680</value>
+							</attribute>
+							<attribute type="string" visible="1" ordinal="0">
+								<name>artist</name>
+								<value>Disc 4</value>
+							</attribute>
+							<attribute type="number" visible="1" ordinal="7">
+								<name>gain</name>
+								<value>0.85</value>
+							</attribute>
+						</page>
+					</pages>
+					<links/>
+					<children/>
+				</entity>
+				<entity type="3" catalog="1">
+					<name>07 - Trumpet Cleaning</name>
+					<pages>
+						<page name="detail" visible="1">
+							<attribute type="string" visible="1" ordinal="1">
+								<name>title</name>
+								<value>07 - Trumpet Cleaning</value>
+							</attribute>
+							<attribute type="audio" visible="1" ordinal="2">
+								<name>track</name>
+								<value>${music29}Miles Davis - The Last Word, The Warner Bros. Years (2015) (HD)/Disc 4 - Dingo Original Soundtrack (With Michele Legrand)/07 - Trumpet Cleaning.flac</value>
+							</attribute>
+							<attribute type="integer" visible="1" ordinal="4">
+								<name>duration</name>
+								<value>237427</value>
+							</attribute>
+							<attribute type="string" visible="1" ordinal="0">
+								<name>artist</name>
+								<value>Disc 4</value>
+							</attribute>
+							<attribute type="number" visible="1" ordinal="7">
+								<name>gain</name>
+								<value>0.85</value>
+							</attribute>
+						</page>
+					</pages>
+					<links/>
+					<children/>
+				</entity>
+				<entity type="3" catalog="1">
+					<name>08 - The Dream</name>
+					<pages>
+						<page name="detail" visible="1">
+							<attribute type="string" visible="1" ordinal="1">
+								<name>title</name>
+								<value>08 - The Dream</value>
+							</attribute>
+							<attribute type="audio" visible="1" ordinal="2">
+								<name>track</name>
+								<value>${music29}Miles Davis - The Last Word, The Warner Bros. Years (2015) (HD)/Disc 4 - Dingo Original Soundtrack (With Michele Legrand)/08 - The Dream.flac</value>
+							</attribute>
+							<attribute type="integer" visible="1" ordinal="4">
+								<name>duration</name>
+								<value>230120</value>
+							</attribute>
+							<attribute type="string" visible="1" ordinal="0">
+								<name>artist</name>
+								<value>Disc 4</value>
+							</attribute>
+							<attribute type="number" visible="1" ordinal="7">
+								<name>gain</name>
+								<value>0.85</value>
+							</attribute>
+						</page>
+					</pages>
+					<links/>
+					<children/>
+				</entity>
+				<entity type="3" catalog="1">
+					<name>09 - Paris Walking II</name>
+					<pages>
+						<page name="detail" visible="1">
+							<attribute type="string" visible="1" ordinal="1">
+								<name>title</name>
+								<value>09 - Paris Walking II</value>
+							</attribute>
+							<attribute type="audio" visible="1" ordinal="2">
+								<name>track</name>
+								<value>${music29}Miles Davis - The Last Word, The Warner Bros. Years (2015) (HD)/Disc 4 - Dingo Original Soundtrack (With Michele Legrand)/09 - Paris Walking II.flac</value>
+							</attribute>
+							<attribute type="integer" visible="1" ordinal="4">
+								<name>duration</name>
+								<value>124307</value>
+							</attribute>
+							<attribute type="string" visible="1" ordinal="0">
+								<name>artist</name>
+								<value>Disc 4</value>
+							</attribute>
+							<attribute type="number" visible="1" ordinal="7">
+								<name>gain</name>
+								<value>0.85</value>
+							</attribute>
+						</page>
+					</pages>
+					<links/>
+					<children/>
+				</entity>
+				<entity type="3" catalog="1">
+					<name>10 - Paris Walking I</name>
+					<pages>
+						<page name="detail" visible="1">
+							<attribute type="string" visible="1" ordinal="1">
+								<name>title</name>
+								<value>10 - Paris Walking I</value>
+							</attribute>
+							<attribute type="audio" visible="1" ordinal="2">
+								<name>track</name>
+								<value>${music29}Miles Davis - The Last Word, The Warner Bros. Years (2015) (HD)/Disc 4 - Dingo Original Soundtrack (With Michele Legrand)/10 - Paris Walking I.flac</value>
+							</attribute>
+							<attribute type="integer" visible="1" ordinal="4">
+								<name>duration</name>
+								<value>197333</value>
+							</attribute>
+							<attribute type="string" visible="1" ordinal="0">
+								<name>artist</name>
+								<value>Disc 4</value>
+							</attribute>
+							<attribute type="number" visible="1" ordinal="7">
+								<name>gain</name>
+								<value>0.85</value>
+							</attribute>
+						</page>
+					</pages>
+					<links/>
+					<children/>
+				</entity>
+				<entity type="3" catalog="1">
+					<name>11 - Kimberly Trumpet In Paris</name>
+					<pages>
+						<page name="detail" visible="1">
+							<attribute type="string" visible="1" ordinal="1">
+								<name>title</name>
+								<value>11 - Kimberly Trumpet In Paris</value>
+							</attribute>
+							<attribute type="audio" visible="1" ordinal="2">
+								<name>track</name>
+								<value>${music29}Miles Davis - The Last Word, The Warner Bros. Years (2015) (HD)/Disc 4 - Dingo Original Soundtrack (With Michele Legrand)/11 - Kimberly Trumpet In Paris.flac</value>
+							</attribute>
+							<attribute type="integer" visible="1" ordinal="4">
+								<name>duration</name>
+								<value>134173</value>
+							</attribute>
+							<attribute type="string" visible="1" ordinal="0">
+								<name>artist</name>
+								<value>Disc 4</value>
+							</attribute>
+							<attribute type="number" visible="1" ordinal="7">
+								<name>gain</name>
+								<value>0.85</value>
+							</attribute>
+						</page>
+					</pages>
+					<links/>
+					<children/>
+				</entity>
+				<entity type="3" catalog="1">
+					<name>12 - The Music Room</name>
+					<pages>
+						<page name="detail" visible="1">
+							<attribute type="string" visible="1" ordinal="1">
+								<name>title</name>
+								<value>12 - The Music Room</value>
+							</attribute>
+							<attribute type="audio" visible="1" ordinal="2">
+								<name>track</name>
+								<value>${music29}Miles Davis - The Last Word, The Warner Bros. Years (2015) (HD)/Disc 4 - Dingo Original Soundtrack (With Michele Legrand)/12 - The Music Room.flac</value>
+							</attribute>
+							<attribute type="integer" visible="1" ordinal="4">
+								<name>duration</name>
+								<value>162227</value>
+							</attribute>
+							<attribute type="string" visible="1" ordinal="0">
+								<name>artist</name>
+								<value>Disc 4</value>
+							</attribute>
+							<attribute type="number" visible="1" ordinal="7">
+								<name>gain</name>
+								<value>0.85</value>
+							</attribute>
+						</page>
+					</pages>
+					<links/>
+					<children/>
+				</entity>
+				<entity type="3" catalog="1">
+					<name>13 - Club Entrance</name>
+					<pages>
+						<page name="detail" visible="1">
+							<attribute type="string" visible="1" ordinal="1">
+								<name>title</name>
+								<value>13 - Club Entrance</value>
+							</attribute>
+							<attribute type="audio" visible="1" ordinal="2">
+								<name>track</name>
+								<value>${music29}Miles Davis - The Last Word, The Warner Bros. Years (2015) (HD)/Disc 4 - Dingo Original Soundtrack (With Michele Legrand)/13 - Club Entrance.flac</value>
+							</attribute>
+							<attribute type="integer" visible="1" ordinal="4">
+								<name>duration</name>
+								<value>264200</value>
+							</attribute>
+							<attribute type="string" visible="1" ordinal="0">
+								<name>artist</name>
+								<value>Disc 4</value>
+							</attribute>
+							<attribute type="number" visible="1" ordinal="7">
+								<name>gain</name>
+								<value>0.85</value>
+							</attribute>
+						</page>
+					</pages>
+					<links/>
+					<children/>
+				</entity>
+				<entity type="3" catalog="1">
+					<name>14 - The Jam Session</name>
+					<pages>
+						<page name="detail" visible="1">
+							<attribute type="string" visible="1" ordinal="1">
+								<name>title</name>
+								<value>14 - The Jam Session</value>
+							</attribute>
+							<attribute type="audio" visible="1" ordinal="2">
+								<name>track</name>
+								<value>${music29}Miles Davis - The Last Word, The Warner Bros. Years (2015) (HD)/Disc 4 - Dingo Original Soundtrack (With Michele Legrand)/14 - The Jam Session.flac</value>
+							</attribute>
+							<attribute type="integer" visible="1" ordinal="4">
+								<name>duration</name>
+								<value>381387</value>
+							</attribute>
+							<attribute type="string" visible="1" ordinal="0">
+								<name>artist</name>
+								<value>Disc 4</value>
+							</attribute>
+							<attribute type="number" visible="1" ordinal="7">
+								<name>gain</name>
+								<value>0.85</value>
+							</attribute>
+						</page>
+					</pages>
+					<links/>
+					<children/>
+				</entity>
+				<entity type="3" catalog="1">
+					<name>15 - Going Home</name>
+					<pages>
+						<page name="detail" visible="1">
+							<attribute type="string" visible="1" ordinal="1">
+								<name>title</name>
+								<value>15 - Going Home</value>
+							</attribute>
+							<attribute type="audio" visible="1" ordinal="2">
+								<name>track</name>
+								<value>${music29}Miles Davis - The Last Word, The Warner Bros. Years (2015) (HD)/Disc 4 - Dingo Original Soundtrack (With Michele Legrand)/15 - Going Home.flac</value>
+							</attribute>
+							<attribute type="integer" visible="1" ordinal="4">
+								<name>duration</name>
+								<value>132040</value>
+							</attribute>
+							<attribute type="string" visible="1" ordinal="0">
+								<name>artist</name>
+								<value>Disc 4</value>
+							</attribute>
+							<attribute type="number" visible="1" ordinal="7">
+								<name>gain</name>
+								<value>0.85</value>
+							</attribute>
+						</page>
+					</pages>
+					<links/>
+					<children/>
+				</entity>
+				<entity type="3" catalog="1">
+					<name>16 - Surprise</name>
+					<pages>
+						<page name="detail" visible="1">
+							<attribute type="string" visible="1" ordinal="1">
+								<name>title</name>
+								<value>16 - Surprise</value>
+							</attribute>
+							<attribute type="audio" visible="1" ordinal="2">
+								<name>track</name>
+								<value>${music29}Miles Davis - The Last Word, The Warner Bros. Years (2015) (HD)/Disc 4 - Dingo Original Soundtrack (With Michele Legrand)/16 - Surprise.flac</value>
+							</attribute>
+							<attribute type="integer" visible="1" ordinal="4">
+								<name>duration</name>
+								<value>315907</value>
+							</attribute>
+							<attribute type="string" visible="1" ordinal="0">
+								<name>artist</name>
+								<value>Disc 4</value>
+							</attribute>
+							<attribute type="number" visible="1" ordinal="7">
+								<name>gain</name>
+								<value>0.85</value>
+							</attribute>
+						</page>
+					</pages>
+					<links/>
+					<children/>
+				</entity>
+			</children>
+		</entity>
+		<entity type="2" catalog="1" subtype="boxset_element(album|boxset_element|playlist|radio|film|video|episode)">
+			<name>Disc 5 - Doo Bop</name>
+			<pages>
+				<page name="detail" visible="1">
+					<attribute type="string" visible="1" ordinal="1">
+						<name>title</name>
+						<value>Disc 5 - Doo Bop</value>
+					</attribute>
+					<attribute type="boolean" visible="1" ordinal="3">
+						<name>variousArtists</name>
+						<value>false</value>
+					</attribute>
+					<attribute type="string" visible="1" ordinal="0">
+						<name>artist</name>
+						<value>Disc 5</value>
+					</attribute>
+					<attribute type="number" visible="1" ordinal="7">
+						<name>gain</name>
+						<value>0.85</value>
+					</attribute>
+					<attribute type="URL" visible="1" ordinal="6">
+						<name>website</name>
+						<value/>
+					</attribute>
+					<attribute type="string" visible="1" ordinal="8">
+						<name>contentGain</name>
+						<value/>
+					</attribute>
+				</page>
+				<page name="images" visible="1"></page>
+				<page name="notes" visible="1"></page>
+			</pages>
+			<links/>
+			<children>
+				<entity type="3" catalog="1">
+					<name>01 - Mystery</name>
+					<pages>
+						<page name="detail" visible="1">
+							<attribute type="string" visible="1" ordinal="1">
+								<name>title</name>
+								<value>01 - Mystery</value>
+							</attribute>
+							<attribute type="audio" visible="1" ordinal="2">
+								<name>track</name>
+								<value>${music29}Miles Davis - The Last Word, The Warner Bros. Years (2015) (HD)/Disc 5 - Doo Bop/01 - Mystery.flac</value>
+							</attribute>
+							<attribute type="integer" visible="1" ordinal="4">
+								<name>duration</name>
+								<value>236773</value>
+							</attribute>
+							<attribute type="string" visible="1" ordinal="0">
+								<name>artist</name>
+								<value>Disc 5</value>
+							</attribute>
+							<attribute type="number" visible="1" ordinal="7">
+								<name>gain</name>
+								<value>0.85</value>
+							</attribute>
+						</page>
+					</pages>
+					<links/>
+					<children/>
+				</entity>
+				<entity type="3" catalog="1">
+					<name>02 - The Doo-Bop Song</name>
+					<pages>
+						<page name="detail" visible="1">
+							<attribute type="string" visible="1" ordinal="1">
+								<name>title</name>
+								<value>02 - The Doo-Bop Song</value>
+							</attribute>
+							<attribute type="audio" visible="1" ordinal="2">
+								<name>track</name>
+								<value>${music29}Miles Davis - The Last Word, The Warner Bros. Years (2015) (HD)/Disc 5 - Doo Bop/02 - The Doo-Bop Song.flac</value>
+							</attribute>
+							<attribute type="integer" visible="1" ordinal="4">
+								<name>duration</name>
+								<value>302253</value>
+							</attribute>
+							<attribute type="string" visible="1" ordinal="0">
+								<name>artist</name>
+								<value>Disc 5</value>
+							</attribute>
+							<attribute type="number" visible="1" ordinal="7">
+								<name>gain</name>
+								<value>0.85</value>
+							</attribute>
+						</page>
+					</pages>
+					<links/>
+					<children/>
+				</entity>
+				<entity type="3" catalog="1">
+					<name>03 - Chocolate Chip</name>
+					<pages>
+						<page name="detail" visible="1">
+							<attribute type="string" visible="1" ordinal="1">
+								<name>title</name>
+								<value>03 - Chocolate Chip</value>
+							</attribute>
+							<attribute type="audio" visible="1" ordinal="2">
+								<name>track</name>
+								<value>${music29}Miles Davis - The Last Word, The Warner Bros. Years (2015) (HD)/Disc 5 - Doo Bop/03 - Chocolate Chip.flac</value>
+							</attribute>
+							<attribute type="integer" visible="1" ordinal="4">
+								<name>duration</name>
+								<value>281147</value>
+							</attribute>
+							<attribute type="string" visible="1" ordinal="0">
+								<name>artist</name>
+								<value>Disc 5</value>
+							</attribute>
+							<attribute type="number" visible="1" ordinal="7">
+								<name>gain</name>
+								<value>0.85</value>
+							</attribute>
+						</page>
+					</pages>
+					<links/>
+					<children/>
+				</entity>
+				<entity type="3" catalog="1">
+					<name>04 - High Speed Chase</name>
+					<pages>
+						<page name="detail" visible="1">
+							<attribute type="string" visible="1" ordinal="1">
+								<name>title</name>
+								<value>04 - High Speed Chase</value>
+							</attribute>
+							<attribute type="audio" visible="1" ordinal="2">
+								<name>track</name>
+								<value>${music29}Miles Davis - The Last Word, The Warner Bros. Years (2015) (HD)/Disc 5 - Doo Bop/04 - High Speed Chase.flac</value>
+							</attribute>
+							<attribute type="integer" visible="1" ordinal="4">
+								<name>duration</name>
+								<value>281053</value>
+							</attribute>
+							<attribute type="string" visible="1" ordinal="0">
+								<name>artist</name>
+								<value>Disc 5</value>
+							</attribute>
+							<attribute type="number" visible="1" ordinal="7">
+								<name>gain</name>
+								<value>0.85</value>
+							</attribute>
+						</page>
+					</pages>
+					<links/>
+					<children/>
+				</entity>
+				<entity type="3" catalog="1">
+					<name>05 - Blow</name>
+					<pages>
+						<page name="detail" visible="1">
+							<attribute type="string" visible="1" ordinal="1">
+								<name>title</name>
+								<value>05 - Blow</value>
+							</attribute>
+							<attribute type="audio" visible="1" ordinal="2">
+								<name>track</name>
+								<value>${music29}Miles Davis - The Last Word, The Warner Bros. Years (2015) (HD)/Disc 5 - Doo Bop/05 - Blow.flac</value>
+							</attribute>
+							<attribute type="integer" visible="1" ordinal="4">
+								<name>duration</name>
+								<value>307040</value>
+							</attribute>
+							<attribute type="string" visible="1" ordinal="0">
+								<name>artist</name>
+								<value>Disc 5</value>
+							</attribute>
+							<attribute type="number" visible="1" ordinal="7">
+								<name>gain</name>
+								<value>0.85</value>
+							</attribute>
+						</page>
+					</pages>
+					<links/>
+					<children/>
+				</entity>
+				<entity type="3" catalog="1">
+					<name>06 - Sonya</name>
+					<pages>
+						<page name="detail" visible="1">
+							<attribute type="string" visible="1" ordinal="1">
+								<name>title</name>
+								<value>06 - Sonya</value>
+							</attribute>
+							<attribute type="audio" visible="1" ordinal="2">
+								<name>track</name>
+								<value>${music29}Miles Davis - The Last Word, The Warner Bros. Years (2015) (HD)/Disc 5 - Doo Bop/06 - Sonya.flac</value>
+							</attribute>
+							<attribute type="integer" visible="1" ordinal="4">
+								<name>duration</name>
+								<value>332147</value>
+							</attribute>
+							<attribute type="string" visible="1" ordinal="0">
+								<name>artist</name>
+								<value>Disc 5</value>
+							</attribute>
+							<attribute type="number" visible="1" ordinal="7">
+								<name>gain</name>
+								<value>0.85</value>
+							</attribute>
+						</page>
+					</pages>
+					<links/>
+					<children/>
+				</entity>
+				<entity type="3" catalog="1">
+					<name>07 - Fantasy</name>
+					<pages>
+						<page name="detail" visible="1">
+							<attribute type="string" visible="1" ordinal="1">
+								<name>title</name>
+								<value>07 - Fantasy</value>
+							</attribute>
+							<attribute type="audio" visible="1" ordinal="2">
+								<name>track</name>
+								<value>${music29}Miles Davis - The Last Word, The Warner Bros. Years (2015) (HD)/Disc 5 - Doo Bop/07 - Fantasy.flac</value>
+							</attribute>
+							<attribute type="integer" visible="1" ordinal="4">
+								<name>duration</name>
+								<value>278960</value>
+							</attribute>
+							<attribute type="string" visible="1" ordinal="0">
+								<name>artist</name>
+								<value>Disc 5</value>
+							</attribute>
+							<attribute type="number" visible="1" ordinal="7">
+								<name>gain</name>
+								<value>0.85</value>
+							</attribute>
+						</page>
+					</pages>
+					<links/>
+					<children/>
+				</entity>
+				<entity type="3" catalog="1">
+					<name>08 - Duke Booty</name>
+					<pages>
+						<page name="detail" visible="1">
+							<attribute type="string" visible="1" ordinal="1">
+								<name>title</name>
+								<value>08 - Duke Booty</value>
+							</attribute>
+							<attribute type="audio" visible="1" ordinal="2">
+								<name>track</name>
+								<value>${music29}Miles Davis - The Last Word, The Warner Bros. Years (2015) (HD)/Disc 5 - Doo Bop/08 - Duke Booty.flac</value>
+							</attribute>
+							<attribute type="integer" visible="1" ordinal="4">
+								<name>duration</name>
+								<value>296973</value>
+							</attribute>
+							<attribute type="string" visible="1" ordinal="0">
+								<name>artist</name>
+								<value>Disc 5</value>
+							</attribute>
+							<attribute type="number" visible="1" ordinal="7">
+								<name>gain</name>
+								<value>0.85</value>
+							</attribute>
+						</page>
+					</pages>
+					<links/>
+					<children/>
+				</entity>
+				<entity type="3" catalog="1">
+					<name>09 - Mystery (Reprise)</name>
+					<pages>
+						<page name="detail" visible="1">
+							<attribute type="string" visible="1" ordinal="1">
+								<name>title</name>
+								<value>09 - Mystery (Reprise)</value>
+							</attribute>
+							<attribute type="audio" visible="1" ordinal="2">
+								<name>track</name>
+								<value>${music29}Miles Davis - The Last Word, The Warner Bros. Years (2015) (HD)/Disc 5 - Doo Bop/09 - Mystery (Reprise).flac</value>
+							</attribute>
+							<attribute type="integer" visible="1" ordinal="4">
+								<name>duration</name>
+								<value>86624</value>
+							</attribute>
+							<attribute type="string" visible="1" ordinal="0">
+								<name>artist</name>
+								<value>Disc 5</value>
+							</attribute>
+							<attribute type="number" visible="1" ordinal="7">
+								<name>gain</name>
+								<value>0.85</value>
+							</attribute>
+						</page>
+					</pages>
+					<links/>
+					<children/>
+				</entity>
+			</children>
+		</entity>
+		<entity type="2" catalog="1" subtype="boxset_element(album|boxset_element|playlist|radio|film|video|episode)">
+			<name>Disc 6 - Miles &amp; Quincy Live At Montreux</name>
+			<pages>
+				<page name="detail" visible="1">
+					<attribute type="string" visible="1" ordinal="1">
+						<name>title</name>
+						<value>Disc 6 - Miles &amp; Quincy Live At Montreux</value>
+					</attribute>
+					<attribute type="boolean" visible="1" ordinal="3">
+						<name>variousArtists</name>
+						<value>false</value>
+					</attribute>
+					<attribute type="string" visible="1" ordinal="0">
+						<name>artist</name>
+						<value>Disc 6</value>
+					</attribute>
+					<attribute type="number" visible="1" ordinal="7">
+						<name>gain</name>
+						<value>0.85</value>
+					</attribute>
+					<attribute type="URL" visible="1" ordinal="6">
+						<name>website</name>
+						<value/>
+					</attribute>
+					<attribute type="string" visible="1" ordinal="8">
+						<name>contentGain</name>
+						<value/>
+					</attribute>
+				</page>
+				<page name="images" visible="1"></page>
+				<page name="notes" visible="1"></page>
+			</pages>
+			<links/>
+			<children>
+				<entity type="3" catalog="1">
+					<name>01 - Introduction By Claude Nobs And Quincy Jones (Live at Montreux)</name>
+					<pages>
+						<page name="detail" visible="1">
+							<attribute type="string" visible="1" ordinal="1">
+								<name>title</name>
+								<value>01 - Introduction By Claude Nobs And Quincy Jones (Live at Montreux)</value>
+							</attribute>
+							<attribute type="audio" visible="1" ordinal="2">
+								<name>track</name>
+								<value>${music29}Miles Davis - The Last Word, The Warner Bros. Years (2015) (HD)/Disc 6 - Miles &amp; Quincy Live At Montreux/01 - Introduction By Claude Nobs And Quincy Jones (Live at Montreux).flac</value>
+							</attribute>
+							<attribute type="integer" visible="1" ordinal="4">
+								<name>duration</name>
+								<value>84587</value>
+							</attribute>
+							<attribute type="string" visible="1" ordinal="0">
+								<name>artist</name>
+								<value>Disc 6</value>
+							</attribute>
+							<attribute type="number" visible="1" ordinal="7">
+								<name>gain</name>
+								<value>0.85</value>
+							</attribute>
+						</page>
+					</pages>
+					<links/>
+					<children/>
+				</entity>
+				<entity type="3" catalog="1">
+					<name>02 - Boplicity (Live at Montreux)</name>
+					<pages>
+						<page name="detail" visible="1">
+							<attribute type="string" visible="1" ordinal="1">
+								<name>title</name>
+								<value>02 - Boplicity (Live at Montreux)</value>
+							</attribute>
+							<attribute type="audio" visible="1" ordinal="2">
+								<name>track</name>
+								<value>${music29}Miles Davis - The Last Word, The Warner Bros. Years (2015) (HD)/Disc 6 - Miles &amp; Quincy Live At Montreux/02 - Boplicity (Live at Montreux).flac</value>
+							</attribute>
+							<attribute type="integer" visible="1" ordinal="4">
+								<name>duration</name>
+								<value>220453</value>
+							</attribute>
+							<attribute type="string" visible="1" ordinal="0">
+								<name>artist</name>
+								<value>Disc 6</value>
+							</attribute>
+							<attribute type="number" visible="1" ordinal="7">
+								<name>gain</name>
+								<value>0.85</value>
+							</attribute>
+						</page>
+					</pages>
+					<links/>
+					<children/>
+				</entity>
+				<entity type="3" catalog="1">
+					<name>03 - Introduction To Miles Ahead Medley (Live at Montreux)</name>
+					<pages>
+						<page name="detail" visible="1">
+							<attribute type="string" visible="1" ordinal="1">
+								<name>title</name>
+								<value>03 - Introduction To Miles Ahead Medley (Live at Montreux)</value>
+							</attribute>
+							<attribute type="audio" visible="1" ordinal="2">
+								<name>track</name>
+								<value>${music29}Miles Davis - The Last Word, The Warner Bros. Years (2015) (HD)/Disc 6 - Miles &amp; Quincy Live At Montreux/03 - Introduction To Miles Ahead Medley (Live at Montreux).flac</value>
+							</attribute>
+							<attribute type="integer" visible="1" ordinal="4">
+								<name>duration</name>
+								<value>9053</value>
+							</attribute>
+							<attribute type="string" visible="1" ordinal="0">
+								<name>artist</name>
+								<value>Disc 6</value>
+							</attribute>
+							<attribute type="number" visible="1" ordinal="7">
+								<name>gain</name>
+								<value>0.85</value>
+							</attribute>
+						</page>
+					</pages>
+					<links/>
+					<children/>
+				</entity>
+				<entity type="3" catalog="1">
+					<name>04 - Springsville (Live at Montreux)</name>
+					<pages>
+						<page name="detail" visible="1">
+							<attribute type="string" visible="1" ordinal="1">
+								<name>title</name>
+								<value>04 - Springsville (Live at Montreux)</value>
+							</attribute>
+							<attribute type="audio" visible="1" ordinal="2">
+								<name>track</name>
+								<value>${music29}Miles Davis - The Last Word, The Warner Bros. Years (2015) (HD)/Disc 6 - Miles &amp; Quincy Live At Montreux/04 - Springsville (Live at Montreux).flac</value>
+							</attribute>
+							<attribute type="integer" visible="1" ordinal="4">
+								<name>duration</name>
+								<value>213440</value>
+							</attribute>
+							<attribute type="string" visible="1" ordinal="0">
+								<name>artist</name>
+								<value>Disc 6</value>
+							</attribute>
+							<attribute type="number" visible="1" ordinal="7">
+								<name>gain</name>
+								<value>0.85</value>
+							</attribute>
+						</page>
+					</pages>
+					<links/>
+					<children/>
+				</entity>
+				<entity type="3" catalog="1">
+					<name>05 - Maids Of Cadiz (Live at Montreux)</name>
+					<pages>
+						<page name="detail" visible="1">
+							<attribute type="string" visible="1" ordinal="1">
+								<name>title</name>
+								<value>05 - Maids Of Cadiz (Live at Montreux)</value>
+							</attribute>
+							<attribute type="audio" visible="1" ordinal="2">
+								<name>track</name>
+								<value>${music29}Miles Davis - The Last Word, The Warner Bros. Years (2015) (HD)/Disc 6 - Miles &amp; Quincy Live At Montreux/05 - Maids Of Cadiz (Live at Montreux).flac</value>
+							</attribute>
+							<attribute type="integer" visible="1" ordinal="4">
+								<name>duration</name>
+								<value>217613</value>
+							</attribute>
+							<attribute type="string" visible="1" ordinal="0">
+								<name>artist</name>
+								<value>Disc 6</value>
+							</attribute>
+							<attribute type="number" visible="1" ordinal="7">
+								<name>gain</name>
+								<value>0.85</value>
+							</attribute>
+						</page>
+					</pages>
+					<links/>
+					<children/>
+				</entity>
+				<entity type="3" catalog="1">
+					<name>06 - The Duke (Live at Montreux)</name>
+					<pages>
+						<page name="detail" visible="1">
+							<attribute type="string" visible="1" ordinal="1">
+								<name>title</name>
+								<value>06 - The Duke (Live at Montreux)</value>
+							</attribute>
+							<attribute type="audio" visible="1" ordinal="2">
+								<name>track</name>
+								<value>${music29}Miles Davis - The Last Word, The Warner Bros. Years (2015) (HD)/Disc 6 - Miles &amp; Quincy Live At Montreux/06 - The Duke (Live at Montreux).flac</value>
+							</attribute>
+							<attribute type="integer" visible="1" ordinal="4">
+								<name>duration</name>
+								<value>240293</value>
+							</attribute>
+							<attribute type="string" visible="1" ordinal="0">
+								<name>artist</name>
+								<value>Disc 6</value>
+							</attribute>
+							<attribute type="number" visible="1" ordinal="7">
+								<name>gain</name>
+								<value>0.85</value>
+							</attribute>
+						</page>
+					</pages>
+					<links/>
+					<children/>
+				</entity>
+				<entity type="3" catalog="1">
+					<name>07 - My Ship (Live at Montreux)</name>
+					<pages>
+						<page name="detail" visible="1">
+							<attribute type="string" visible="1" ordinal="1">
+								<name>title</name>
+								<value>07 - My Ship (Live at Montreux)</value>
+							</attribute>
+							<attribute type="audio" visible="1" ordinal="2">
+								<name>track</name>
+								<value>${music29}Miles Davis - The Last Word, The Warner Bros. Years (2015) (HD)/Disc 6 - Miles &amp; Quincy Live At Montreux/07 - My Ship (Live at Montreux).flac</value>
+							</attribute>
+							<attribute type="integer" visible="1" ordinal="4">
+								<name>duration</name>
+								<value>251027</value>
+							</attribute>
+							<attribute type="string" visible="1" ordinal="0">
+								<name>artist</name>
+								<value>Disc 6</value>
+							</attribute>
+							<attribute type="number" visible="1" ordinal="7">
+								<name>gain</name>
+								<value>0.85</value>
+							</attribute>
+						</page>
+					</pages>
+					<links/>
+					<children/>
+				</entity>
+				<entity type="3" catalog="1">
+					<name>08 - Miles Ahead (Live at Montreux)</name>
+					<pages>
+						<page name="detail" visible="1">
+							<attribute type="string" visible="1" ordinal="1">
+								<name>title</name>
+								<value>08 - Miles Ahead (Live at Montreux)</value>
+							</attribute>
+							<attribute type="audio" visible="1" ordinal="2">
+								<name>track</name>
+								<value>${music29}Miles Davis - The Last Word, The Warner Bros. Years (2015) (HD)/Disc 6 - Miles &amp; Quincy Live At Montreux/08 - Miles Ahead (Live at Montreux).flac</value>
+							</attribute>
+							<attribute type="integer" visible="1" ordinal="4">
+								<name>duration</name>
+								<value>218240</value>
+							</attribute>
+							<attribute type="string" visible="1" ordinal="0">
+								<name>artist</name>
+								<value>Disc 6</value>
+							</attribute>
+							<attribute type="number" visible="1" ordinal="7">
+								<name>gain</name>
+								<value>0.85</value>
+							</attribute>
+						</page>
+					</pages>
+					<links/>
+					<children/>
+				</entity>
+				<entity type="3" catalog="1">
+					<name>09 - Blues For Pablo (Live at Montreux)</name>
+					<pages>
+						<page name="detail" visible="1">
+							<attribute type="string" visible="1" ordinal="1">
+								<name>title</name>
+								<value>09 - Blues For Pablo (Live at Montreux)</value>
+							</attribute>
+							<attribute type="audio" visible="1" ordinal="2">
+								<name>track</name>
+								<value>${music29}Miles Davis - The Last Word, The Warner Bros. Years (2015) (HD)/Disc 6 - Miles &amp; Quincy Live At Montreux/09 - Blues For Pablo (Live at Montreux).flac</value>
+							</attribute>
+							<attribute type="integer" visible="1" ordinal="4">
+								<name>duration</name>
+								<value>366040</value>
+							</attribute>
+							<attribute type="string" visible="1" ordinal="0">
+								<name>artist</name>
+								<value>Disc 6</value>
+							</attribute>
+							<attribute type="number" visible="1" ordinal="7">
+								<name>gain</name>
+								<value>0.85</value>
+							</attribute>
+						</page>
+					</pages>
+					<links/>
+					<children/>
+				</entity>
+				<entity type="3" catalog="1">
+					<name>10 - Introduction To Porgy And Bess Medley (Live at Montreux)</name>
+					<pages>
+						<page name="detail" visible="1">
+							<attribute type="string" visible="1" ordinal="1">
+								<name>title</name>
+								<value>10 - Introduction To Porgy And Bess Medley (Live at Montreux)</value>
+							</attribute>
+							<attribute type="audio" visible="1" ordinal="2">
+								<name>track</name>
+								<value>${music29}Miles Davis - The Last Word, The Warner Bros. Years (2015) (HD)/Disc 6 - Miles &amp; Quincy Live At Montreux/10 - Introduction To Porgy And Bess Medley (Live at Montreux).flac</value>
+							</attribute>
+							<attribute type="integer" visible="1" ordinal="4">
+								<name>duration</name>
+								<value>27627</value>
+							</attribute>
+							<attribute type="string" visible="1" ordinal="0">
+								<name>artist</name>
+								<value>Disc 6</value>
+							</attribute>
+							<attribute type="number" visible="1" ordinal="7">
+								<name>gain</name>
+								<value>0.85</value>
+							</attribute>
+						</page>
+					</pages>
+					<links/>
+					<children/>
+				</entity>
+				<entity type="3" catalog="1">
+					<name>11 - Orgone (Live at Montreux)</name>
+					<pages>
+						<page name="detail" visible="1">
+							<attribute type="string" visible="1" ordinal="1">
+								<name>title</name>
+								<value>11 - Orgone (Live at Montreux)</value>
+							</attribute>
+							<attribute type="audio" visible="1" ordinal="2">
+								<name>track</name>
+								<value>${music29}Miles Davis - The Last Word, The Warner Bros. Years (2015) (HD)/Disc 6 - Miles &amp; Quincy Live At Montreux/11 - Orgone (Live at Montreux).flac</value>
+							</attribute>
+							<attribute type="integer" visible="1" ordinal="4">
+								<name>duration</name>
+								<value>249213</value>
+							</attribute>
+							<attribute type="string" visible="1" ordinal="0">
+								<name>artist</name>
+								<value>Disc 6</value>
+							</attribute>
+							<attribute type="number" visible="1" ordinal="7">
+								<name>gain</name>
+								<value>0.85</value>
+							</attribute>
+						</page>
+					</pages>
+					<links/>
+					<children/>
+				</entity>
+				<entity type="3" catalog="1">
+					<name>12 - Gone, Gone Gone (Live at Montreux)</name>
+					<pages>
+						<page name="detail" visible="1">
+							<attribute type="string" visible="1" ordinal="1">
+								<name>title</name>
+								<value>12 - Gone, Gone Gone (Live at Montreux)</value>
+							</attribute>
+							<attribute type="audio" visible="1" ordinal="2">
+								<name>track</name>
+								<value>${music29}Miles Davis - The Last Word, The Warner Bros. Years (2015) (HD)/Disc 6 - Miles &amp; Quincy Live At Montreux/12 - Gone, Gone Gone (Live at Montreux).flac</value>
+							</attribute>
+							<attribute type="integer" visible="1" ordinal="4">
+								<name>duration</name>
+								<value>107827</value>
+							</attribute>
+							<attribute type="string" visible="1" ordinal="0">
+								<name>artist</name>
+								<value>Disc 6</value>
+							</attribute>
+							<attribute type="number" visible="1" ordinal="7">
+								<name>gain</name>
+								<value>0.85</value>
+							</attribute>
+						</page>
+					</pages>
+					<links/>
+					<children/>
+				</entity>
+				<entity type="3" catalog="1">
+					<name>13 - Summertime (Live at Montreux)</name>
+					<pages>
+						<page name="detail" visible="1">
+							<attribute type="string" visible="1" ordinal="1">
+								<name>title</name>
+								<value>13 - Summertime (Live at Montreux)</value>
+							</attribute>
+							<attribute type="audio" visible="1" ordinal="2">
+								<name>track</name>
+								<value>${music29}Miles Davis - The Last Word, The Warner Bros. Years (2015) (HD)/Disc 6 - Miles &amp; Quincy Live At Montreux/13 - Summertime (Live at Montreux).flac</value>
+							</attribute>
+							<attribute type="integer" visible="1" ordinal="4">
+								<name>duration</name>
+								<value>173907</value>
+							</attribute>
+							<attribute type="string" visible="1" ordinal="0">
+								<name>artist</name>
+								<value>Disc 6</value>
+							</attribute>
+							<attribute type="number" visible="1" ordinal="7">
+								<name>gain</name>
+								<value>0.85</value>
+							</attribute>
+						</page>
+					</pages>
+					<links/>
+					<children/>
+				</entity>
+				<entity type="3" catalog="1">
+					<name>14 - Here Come De Honey Man (Live at Montreux)</name>
+					<pages>
+						<page name="detail" visible="1">
+							<attribute type="string" visible="1" ordinal="1">
+								<name>title</name>
+								<value>14 - Here Come De Honey Man (Live at Montreux)</value>
+							</attribute>
+							<attribute type="audio" visible="1" ordinal="2">
+								<name>track</name>
+								<value>${music29}Miles Davis - The Last Word, The Warner Bros. Years (2015) (HD)/Disc 6 - Miles &amp; Quincy Live At Montreux/14 - Here Come De Honey Man (Live at Montreux).flac</value>
+							</attribute>
+							<attribute type="integer" visible="1" ordinal="4">
+								<name>duration</name>
+								<value>220987</value>
+							</attribute>
+							<attribute type="string" visible="1" ordinal="0">
+								<name>artist</name>
+								<value>Disc 6</value>
+							</attribute>
+							<attribute type="number" visible="1" ordinal="7">
+								<name>gain</name>
+								<value>0.85</value>
+							</attribute>
+						</page>
+					</pages>
+					<links/>
+					<children/>
+				</entity>
+				<entity type="3" catalog="1">
+					<name>15 - The Pan Piper (Live at Montreux)</name>
+					<pages>
+						<page name="detail" visible="1">
+							<attribute type="string" visible="1" ordinal="1">
+								<name>title</name>
+								<value>15 - The Pan Piper (Live at Montreux)</value>
+							</attribute>
+							<attribute type="audio" visible="1" ordinal="2">
+								<name>track</name>
+								<value>${music29}Miles Davis - The Last Word, The Warner Bros. Years (2015) (HD)/Disc 6 - Miles &amp; Quincy Live At Montreux/15 - The Pan Piper (Live at Montreux).flac</value>
+							</attribute>
+							<attribute type="integer" visible="1" ordinal="4">
+								<name>duration</name>
+								<value>100187</value>
+							</attribute>
+							<attribute type="string" visible="1" ordinal="0">
+								<name>artist</name>
+								<value>Disc 6</value>
+							</attribute>
+							<attribute type="number" visible="1" ordinal="7">
+								<name>gain</name>
+								<value>0.85</value>
+							</attribute>
+						</page>
+					</pages>
+					<links/>
+					<children/>
+				</entity>
+				<entity type="3" catalog="1">
+					<name>16 - Solea (Live at Montreux)</name>
+					<pages>
+						<page name="detail" visible="1">
+							<attribute type="string" visible="1" ordinal="1">
+								<name>title</name>
+								<value>16 - Solea (Live at Montreux)</value>
+							</attribute>
+							<attribute type="audio" visible="1" ordinal="2">
+								<name>track</name>
+								<value>${music29}Miles Davis - The Last Word, The Warner Bros. Years (2015) (HD)/Disc 6 - Miles &amp; Quincy Live At Montreux/16 - Solea (Live at Montreux).flac</value>
+							</attribute>
+							<attribute type="integer" visible="1" ordinal="4">
+								<name>duration</name>
+								<value>706507</value>
+							</attribute>
+							<attribute type="string" visible="1" ordinal="0">
+								<name>artist</name>
+								<value>Disc 6</value>
+							</attribute>
+							<attribute type="number" visible="1" ordinal="7">
+								<name>gain</name>
+								<value>0.85</value>
+							</attribute>
+						</page>
+					</pages>
+					<links/>
+					<children/>
+				</entity>
+			</children>
+		</entity>
+		<entity type="2" catalog="1" subtype="boxset_element(album|boxset_element|playlist|radio|film|video|episode)">
+			<name>Disc 7 - Live Around The World</name>
+			<pages>
+				<page name="detail" visible="1">
+					<attribute type="string" visible="1" ordinal="1">
+						<name>title</name>
+						<value>Disc 7 - Live Around The World</value>
+					</attribute>
+					<attribute type="boolean" visible="1" ordinal="3">
+						<name>variousArtists</name>
+						<value>false</value>
+					</attribute>
+					<attribute type="string" visible="1" ordinal="0">
+						<name>artist</name>
+						<value>Disc 7</value>
+					</attribute>
+					<attribute type="number" visible="1" ordinal="7">
+						<name>gain</name>
+						<value>0.85</value>
+					</attribute>
+					<attribute type="URL" visible="1" ordinal="6">
+						<name>website</name>
+						<value/>
+					</attribute>
+					<attribute type="string" visible="1" ordinal="8">
+						<name>contentGain</name>
+						<value/>
+					</attribute>
+				</page>
+				<page name="images" visible="1"></page>
+				<page name="notes" visible="1"></page>
+			</pages>
+			<links/>
+			<children>
+				<entity type="3" catalog="1">
+					<name>01 - In A Silent Way (Live at Indigo Blues Club 12-17-1988, New York, NY 2nd Show)</name>
+					<pages>
+						<page name="detail" visible="1">
+							<attribute type="string" visible="1" ordinal="1">
+								<name>title</name>
+								<value>01 - In A Silent Way (Live at Indigo Blues Club 12-17-1988, New York, NY 2nd Show)</value>
+							</attribute>
+							<attribute type="audio" visible="1" ordinal="2">
+								<name>track</name>
+								<value>${music29}Miles Davis - The Last Word, The Warner Bros. Years (2015) (HD)/Disc 7 - Live Around The World/01 - In A Silent Way (Live at Indigo Blues Club 12-17-1988, New York, NY 2nd Show).flac</value>
+							</attribute>
+							<attribute type="integer" visible="1" ordinal="4">
+								<name>duration</name>
+								<value>109827</value>
+							</attribute>
+							<attribute type="string" visible="1" ordinal="0">
+								<name>artist</name>
+								<value>Disc 7</value>
+							</attribute>
+							<attribute type="number" visible="1" ordinal="7">
+								<name>gain</name>
+								<value>0.85</value>
+							</attribute>
+						</page>
+					</pages>
+					<links/>
+					<children/>
+				</entity>
+				<entity type="3" catalog="1">
+					<name>02 - Intruder (Live at Indigo Blues Club,  New York, NY 12-17-1988 2nd Show)</name>
+					<pages>
+						<page name="detail" visible="1">
+							<attribute type="string" visible="1" ordinal="1">
+								<name>title</name>
+								<value>02 - Intruder (Live at Indigo Blues Club,  New York, NY 12-17-1988 2nd Show)</value>
+							</attribute>
+							<attribute type="audio" visible="1" ordinal="2">
+								<name>track</name>
+								<value>${music29}Miles Davis - The Last Word, The Warner Bros. Years (2015) (HD)/Disc 7 - Live Around The World/02 - Intruder (Live at Indigo Blues Club,  New York, NY 12-17-1988 2nd Show).flac</value>
+							</attribute>
+							<attribute type="integer" visible="1" ordinal="4">
+								<name>duration</name>
+								<value>292240</value>
+							</attribute>
+							<attribute type="string" visible="1" ordinal="0">
+								<name>artist</name>
+								<value>Disc 7</value>
+							</attribute>
+							<attribute type="number" visible="1" ordinal="7">
+								<name>gain</name>
+								<value>0.85</value>
+							</attribute>
+						</page>
+					</pages>
+					<links/>
+					<children/>
+				</entity>
+				<entity type="3" catalog="1">
+					<name>03 - New Blues (Live at Greek Theatre 8-14-1988 Los Angeles, CA)</name>
+					<pages>
+						<page name="detail" visible="1">
+							<attribute type="string" visible="1" ordinal="1">
+								<name>title</name>
+								<value>03 - New Blues (Live at Greek Theatre 8-14-1988 Los Angeles, CA)</value>
+							</attribute>
+							<attribute type="audio" visible="1" ordinal="2">
+								<name>track</name>
+								<value>${music29}Miles Davis - The Last Word, The Warner Bros. Years (2015) (HD)/Disc 7 - Live Around The World/03 - New Blues (Live at Greek Theatre 8-14-1988 Los Angeles, CA).flac</value>
+							</attribute>
+							<attribute type="integer" visible="1" ordinal="4">
+								<name>duration</name>
+								<value>334533</value>
+							</attribute>
+							<attribute type="string" visible="1" ordinal="0">
+								<name>artist</name>
+								<value>Disc 7</value>
+							</attribute>
+							<attribute type="number" visible="1" ordinal="7">
+								<name>gain</name>
+								<value>0.85</value>
+							</attribute>
+						</page>
+					</pages>
+					<links/>
+					<children/>
+				</entity>
+				<entity type="3" catalog="1">
+					<name>04 - Human Nature (Live at Liebenauer Eishalle 11-1-1988 Graz, Austria)</name>
+					<pages>
+						<page name="detail" visible="1">
+							<attribute type="string" visible="1" ordinal="1">
+								<name>title</name>
+								<value>04 - Human Nature (Live at Liebenauer Eishalle 11-1-1988 Graz, Austria)</value>
+							</attribute>
+							<attribute type="audio" visible="1" ordinal="2">
+								<name>track</name>
+								<value>${music29}Miles Davis - The Last Word, The Warner Bros. Years (2015) (HD)/Disc 7 - Live Around The World/04 - Human Nature (Live at Liebenauer Eishalle 11-1-1988 Graz, Austria).flac</value>
+							</attribute>
+							<attribute type="integer" visible="1" ordinal="4">
+								<name>duration</name>
+								<value>767827</value>
+							</attribute>
+							<attribute type="string" visible="1" ordinal="0">
+								<name>artist</name>
+								<value>Disc 7</value>
+							</attribute>
+							<attribute type="number" visible="1" ordinal="7">
+								<name>gain</name>
+								<value>0.85</value>
+							</attribute>
+						</page>
+					</pages>
+					<links/>
+					<children/>
+				</entity>
+				<entity type="3" catalog="1">
+					<name>05 - Mr. Pastorius (Live at Le Zenith - Domaine de Grammond 04-12-89 Montpelier, France)</name>
+					<pages>
+						<page name="detail" visible="1">
+							<attribute type="string" visible="1" ordinal="1">
+								<name>title</name>
+								<value>05 - Mr. Pastorius (Live at Le Zenith - Domaine de Grammond 04-12-89 Montpelier, France)</value>
+							</attribute>
+							<attribute type="audio" visible="1" ordinal="2">
+								<name>track</name>
+								<value>${music29}Miles Davis - The Last Word, The Warner Bros. Years (2015) (HD)/Disc 7 - Live Around The World/05 - Mr. Pastorius (Live at Le Zenith - Domaine de Grammond 04-12-89 Montpelier, France).flac</value>
+							</attribute>
+							<attribute type="integer" visible="1" ordinal="4">
+								<name>duration</name>
+								<value>212240</value>
+							</attribute>
+							<attribute type="string" visible="1" ordinal="0">
+								<name>artist</name>
+								<value>Disc 7</value>
+							</attribute>
+							<attribute type="number" visible="1" ordinal="7">
+								<name>gain</name>
+								<value>0.85</value>
+							</attribute>
+						</page>
+					</pages>
+					<links/>
+					<children/>
+				</entity>
+				<entity type="3" catalog="1">
+					<name>06 - Amandla (Live at Pallazo Della Civita 'The Steps' Rome, Italy,  07-26-1989)</name>
+					<pages>
+						<page name="detail" visible="1">
+							<attribute type="string" visible="1" ordinal="1">
+								<name>title</name>
+								<value>06 - Amandla (Live at Pallazo Della Civita 'The Steps' Rome, Italy,  07-26-1989)</value>
+							</attribute>
+							<attribute type="audio" visible="1" ordinal="2">
+								<name>track</name>
+								<value>${music29}Miles Davis - The Last Word, The Warner Bros. Years (2015) (HD)/Disc 7 - Live Around The World/06 - Amandla (Live at Pallazo Della Civita 'The Steps' Rome, Italy,  07-26-1989).flac</value>
+							</attribute>
+							<attribute type="integer" visible="1" ordinal="4">
+								<name>duration</name>
+								<value>352293</value>
+							</attribute>
+							<attribute type="string" visible="1" ordinal="0">
+								<name>artist</name>
+								<value>Disc 7</value>
+							</attribute>
+							<attribute type="number" visible="1" ordinal="7">
+								<name>gain</name>
+								<value>0.85</value>
+							</attribute>
+						</page>
+					</pages>
+					<links/>
+					<children/>
+				</entity>
+				<entity type="3" catalog="1">
+					<name>07 - Wrinkle (Live at Casino De Montreux, Montreux International Festival 07-20-90 Montreux, Switzerland)</name>
+					<pages>
+						<page name="detail" visible="1">
+							<attribute type="string" visible="1" ordinal="1">
+								<name>title</name>
+								<value>07 - Wrinkle (Live at Casino De Montreux, Montreux International Festival 07-20-90 Montreux, Switzerland)</value>
+							</attribute>
+							<attribute type="audio" visible="1" ordinal="2">
+								<name>track</name>
+								<value>${music29}Miles Davis - The Last Word, The Warner Bros. Years (2015) (HD)/Disc 7 - Live Around The World/07 - Wrinkle (Live at Casino De Montreux, Montreux International Festival 07-20-90 Montreux, Switzerland).flac</value>
+							</attribute>
+							<attribute type="integer" visible="1" ordinal="4">
+								<name>duration</name>
+								<value>436733</value>
+							</attribute>
+							<attribute type="string" visible="1" ordinal="0">
+								<name>artist</name>
+								<value>Disc 7</value>
+							</attribute>
+							<attribute type="number" visible="1" ordinal="7">
+								<name>gain</name>
+								<value>0.85</value>
+							</attribute>
+						</page>
+					</pages>
+					<links/>
+					<children/>
+				</entity>
+				<entity type="3" catalog="1">
+					<name>08 - Tutu (Live at Casino De Montreux 07-20-90)</name>
+					<pages>
+						<page name="detail" visible="1">
+							<attribute type="string" visible="1" ordinal="1">
+								<name>title</name>
+								<value>08 - Tutu (Live at Casino De Montreux 07-20-90)</value>
+							</attribute>
+							<attribute type="audio" visible="1" ordinal="2">
+								<name>track</name>
+								<value>${music29}Miles Davis - The Last Word, The Warner Bros. Years (2015) (HD)/Disc 7 - Live Around The World/08 - Tutu (Live at Casino De Montreux 07-20-90).flac</value>
+							</attribute>
+							<attribute type="integer" visible="1" ordinal="4">
+								<name>duration</name>
+								<value>533067</value>
+							</attribute>
+							<attribute type="string" visible="1" ordinal="0">
+								<name>artist</name>
+								<value>Disc 7</value>
+							</attribute>
+							<attribute type="number" visible="1" ordinal="7">
+								<name>gain</name>
+								<value>0.85</value>
+							</attribute>
+						</page>
+					</pages>
+					<links/>
+					<children/>
+				</entity>
+				<entity type="3" catalog="1">
+					<name>09 - Full Nelson (Live at Osaka Expo Live Under The Sky Festival, Tokyo, Japan 08-7-88)</name>
+					<pages>
+						<page name="detail" visible="1">
+							<attribute type="string" visible="1" ordinal="1">
+								<name>title</name>
+								<value>09 - Full Nelson (Live at Osaka Expo Live Under The Sky Festival, Tokyo, Japan 08-7-88)</value>
+							</attribute>
+							<attribute type="audio" visible="1" ordinal="2">
+								<name>track</name>
+								<value>${music29}Miles Davis - The Last Word, The Warner Bros. Years (2015) (HD)/Disc 7 - Live Around The World/09 - Full Nelson (Live at Osaka Expo Live Under The Sky Festival, Tokyo, Japan 08-7-88).flac</value>
+							</attribute>
+							<attribute type="integer" visible="1" ordinal="4">
+								<name>duration</name>
+								<value>168467</value>
+							</attribute>
+							<attribute type="string" visible="1" ordinal="0">
+								<name>artist</name>
+								<value>Disc 7</value>
+							</attribute>
+							<attribute type="number" visible="1" ordinal="7">
+								<name>gain</name>
+								<value>0.85</value>
+							</attribute>
+						</page>
+					</pages>
+					<links/>
+					<children/>
+				</entity>
+				<entity type="3" catalog="1">
+					<name>10 - Time After Time (Live at Chicago Theatre - JVC Jazz Festival Chicago, IL 6-9-89)</name>
+					<pages>
+						<page name="detail" visible="1">
+							<attribute type="string" visible="1" ordinal="1">
+								<name>title</name>
+								<value>10 - Time After Time (Live at Chicago Theatre - JVC Jazz Festival Chicago, IL 6-9-89)</value>
+							</attribute>
+							<attribute type="audio" visible="1" ordinal="2">
+								<name>track</name>
+								<value>${music29}Miles Davis - The Last Word, The Warner Bros. Years (2015) (HD)/Disc 7 - Live Around The World/10 - Time After Time (Live at Chicago Theatre - JVC Jazz Festival Chicago, IL 6-9-89).flac</value>
+							</attribute>
+							<attribute type="integer" visible="1" ordinal="4">
+								<name>duration</name>
+								<value>598800</value>
+							</attribute>
+							<attribute type="string" visible="1" ordinal="0">
+								<name>artist</name>
+								<value>Disc 7</value>
+							</attribute>
+							<attribute type="number" visible="1" ordinal="7">
+								<name>gain</name>
+								<value>0.85</value>
+							</attribute>
+						</page>
+					</pages>
+					<links/>
+					<children/>
+				</entity>
+				<entity type="3" catalog="1">
+					<name>11 - Hannibal (Live)</name>
+					<pages>
+						<page name="detail" visible="1">
+							<attribute type="string" visible="1" ordinal="1">
+								<name>title</name>
+								<value>11 - Hannibal (Live)</value>
+							</attribute>
+							<attribute type="audio" visible="1" ordinal="2">
+								<name>track</name>
+								<value>${music29}Miles Davis - The Last Word, The Warner Bros. Years (2015) (HD)/Disc 7 - Live Around The World/11 - Hannibal (Live).flac</value>
+							</attribute>
+							<attribute type="integer" visible="1" ordinal="4">
+								<name>duration</name>
+								<value>442899</value>
+							</attribute>
+							<attribute type="string" visible="1" ordinal="0">
+								<name>artist</name>
+								<value>Disc 7</value>
+							</attribute>
+							<attribute type="number" visible="1" ordinal="7">
+								<name>gain</name>
+								<value>0.85</value>
+							</attribute>
+						</page>
+					</pages>
+					<links/>
+					<children/>
+				</entity>
+			</children>
+		</entity>
+		<entity type="2" catalog="1" subtype="boxset_element(album|boxset_element|playlist|radio|film|video|episode)">
+			<name>Disc 8 - Live Performance from Nice Festival, France</name>
+			<pages>
+				<page name="detail" visible="1">
+					<attribute type="string" visible="1" ordinal="1">
+						<name>title</name>
+						<value>Disc 8 - Live Performance from Nice Festival, France</value>
+					</attribute>
+					<attribute type="boolean" visible="1" ordinal="3">
+						<name>variousArtists</name>
+						<value>false</value>
+					</attribute>
+					<attribute type="string" visible="1" ordinal="0">
+						<name>artist</name>
+						<value>Disc 8</value>
+					</attribute>
+					<attribute type="number" visible="1" ordinal="7">
+						<name>gain</name>
+						<value>0.85</value>
+					</attribute>
+					<attribute type="URL" visible="1" ordinal="6">
+						<name>website</name>
+						<value/>
+					</attribute>
+					<attribute type="string" visible="1" ordinal="8">
+						<name>contentGain</name>
+						<value/>
+					</attribute>
+				</page>
+				<page name="images" visible="1"></page>
+				<page name="notes" visible="1"></page>
+			</pages>
+			<links/>
+			<children>
+				<entity type="3" catalog="1">
+					<name>01 - Opening Medley ( Live at Nice Festival, France, July 1986)</name>
+					<pages>
+						<page name="detail" visible="1">
+							<attribute type="string" visible="1" ordinal="1">
+								<name>title</name>
+								<value>01 - Opening Medley ( Live at Nice Festival, France, July 1986)</value>
+							</attribute>
+							<attribute type="audio" visible="1" ordinal="2">
+								<name>track</name>
+								<value>${music29}Miles Davis - The Last Word, The Warner Bros. Years (2015) (HD)/Disc 8 - Live Performance from Nice Festival, France/01 - Opening Medley ( Live at Nice Festival, France, July 1986).flac</value>
+							</attribute>
+							<attribute type="integer" visible="1" ordinal="4">
+								<name>duration</name>
+								<value>911024</value>
+							</attribute>
+							<attribute type="string" visible="1" ordinal="0">
+								<name>artist</name>
+								<value>Disc 8</value>
+							</attribute>
+							<attribute type="number" visible="1" ordinal="7">
+								<name>gain</name>
+								<value>0.85</value>
+							</attribute>
+						</page>
+					</pages>
+					<links/>
+					<children/>
+				</entity>
+				<entity type="3" catalog="1">
+					<name>02 - New Blues (Live at  Nice Festival, France, July 1986)</name>
+					<pages>
+						<page name="detail" visible="1">
+							<attribute type="string" visible="1" ordinal="1">
+								<name>title</name>
+								<value>02 - New Blues (Live at  Nice Festival, France, July 1986)</value>
+							</attribute>
+							<attribute type="audio" visible="1" ordinal="2">
+								<name>track</name>
+								<value>${music29}Miles Davis - The Last Word, The Warner Bros. Years (2015) (HD)/Disc 8 - Live Performance from Nice Festival, France/02 - New Blues (Live at  Nice Festival, France, July 1986).flac</value>
+							</attribute>
+							<attribute type="integer" visible="1" ordinal="4">
+								<name>duration</name>
+								<value>320680</value>
+							</attribute>
+							<attribute type="string" visible="1" ordinal="0">
+								<name>artist</name>
+								<value>Disc 8</value>
+							</attribute>
+							<attribute type="number" visible="1" ordinal="7">
+								<name>gain</name>
+								<value>0.85</value>
+							</attribute>
+						</page>
+					</pages>
+					<links/>
+					<children/>
+				</entity>
+				<entity type="3" catalog="1">
+					<name>03 - The Maze (Live at Nice Festival, France, July 1986)</name>
+					<pages>
+						<page name="detail" visible="1">
+							<attribute type="string" visible="1" ordinal="1">
+								<name>title</name>
+								<value>03 - The Maze (Live at Nice Festival, France, July 1986)</value>
+							</attribute>
+							<attribute type="audio" visible="1" ordinal="2">
+								<name>track</name>
+								<value>${music29}Miles Davis - The Last Word, The Warner Bros. Years (2015) (HD)/Disc 8 - Live Performance from Nice Festival, France/03 - The Maze (Live at Nice Festival, France, July 1986).flac</value>
+							</attribute>
+							<attribute type="integer" visible="1" ordinal="4">
+								<name>duration</name>
+								<value>615653</value>
+							</attribute>
+							<attribute type="string" visible="1" ordinal="0">
+								<name>artist</name>
+								<value>Disc 8</value>
+							</attribute>
+							<attribute type="number" visible="1" ordinal="7">
+								<name>gain</name>
+								<value>0.85</value>
+							</attribute>
+						</page>
+					</pages>
+					<links/>
+					<children/>
+				</entity>
+				<entity type="3" catalog="1">
+					<name>04 - Human Nature (Live at Nice Festival, France, July 1986)</name>
+					<pages>
+						<page name="detail" visible="1">
+							<attribute type="string" visible="1" ordinal="1">
+								<name>title</name>
+								<value>04 - Human Nature (Live at Nice Festival, France, July 1986)</value>
+							</attribute>
+							<attribute type="audio" visible="1" ordinal="2">
+								<name>track</name>
+								<value>${music29}Miles Davis - The Last Word, The Warner Bros. Years (2015) (HD)/Disc 8 - Live Performance from Nice Festival, France/04 - Human Nature (Live at Nice Festival, France, July 1986).flac</value>
+							</attribute>
+							<attribute type="integer" visible="1" ordinal="4">
+								<name>duration</name>
+								<value>544187</value>
+							</attribute>
+							<attribute type="string" visible="1" ordinal="0">
+								<name>artist</name>
+								<value>Disc 8</value>
+							</attribute>
+							<attribute type="number" visible="1" ordinal="7">
+								<name>gain</name>
+								<value>0.85</value>
+							</attribute>
+						</page>
+					</pages>
+					<links/>
+					<children/>
+				</entity>
+				<entity type="3" catalog="1">
+					<name>05 - Portia (Live from Nice Festival, France, July 1986)</name>
+					<pages>
+						<page name="detail" visible="1">
+							<attribute type="string" visible="1" ordinal="1">
+								<name>title</name>
+								<value>05 - Portia (Live from Nice Festival, France, July 1986)</value>
+							</attribute>
+							<attribute type="audio" visible="1" ordinal="2">
+								<name>track</name>
+								<value>${music29}Miles Davis - The Last Word, The Warner Bros. Years (2015) (HD)/Disc 8 - Live Performance from Nice Festival, France/05 - Portia (Live from Nice Festival, France, July 1986).flac</value>
+							</attribute>
+							<attribute type="integer" visible="1" ordinal="4">
+								<name>duration</name>
+								<value>474947</value>
+							</attribute>
+							<attribute type="string" visible="1" ordinal="0">
+								<name>artist</name>
+								<value>Disc 8</value>
+							</attribute>
+							<attribute type="number" visible="1" ordinal="7">
+								<name>gain</name>
+								<value>0.85</value>
+							</attribute>
+						</page>
+					</pages>
+					<links/>
+					<children/>
+				</entity>
+				<entity type="3" catalog="1">
+					<name>06 - Splatch (Live at Nice Festival, France, July 1986)</name>
+					<pages>
+						<page name="detail" visible="1">
+							<attribute type="string" visible="1" ordinal="1">
+								<name>title</name>
+								<value>06 - Splatch (Live at Nice Festival, France, July 1986)</value>
+							</attribute>
+							<attribute type="audio" visible="1" ordinal="2">
+								<name>track</name>
+								<value>${music29}Miles Davis - The Last Word, The Warner Bros. Years (2015) (HD)/Disc 8 - Live Performance from Nice Festival, France/06 - Splatch (Live at Nice Festival, France, July 1986).flac</value>
+							</attribute>
+							<attribute type="integer" visible="1" ordinal="4">
+								<name>duration</name>
+								<value>1030573</value>
+							</attribute>
+							<attribute type="string" visible="1" ordinal="0">
+								<name>artist</name>
+								<value>Disc 8</value>
+							</attribute>
+							<attribute type="number" visible="1" ordinal="7">
+								<name>gain</name>
+								<value>0.85</value>
+							</attribute>
+						</page>
+					</pages>
+					<links/>
+					<children/>
+				</entity>
+				<entity type="3" catalog="1">
+					<name>07 - Time After Time (Live at Nice Festival, France, July 1986)</name>
+					<pages>
+						<page name="detail" visible="1">
+							<attribute type="string" visible="1" ordinal="1">
+								<name>title</name>
+								<value>07 - Time After Time (Live at Nice Festival, France, July 1986)</value>
+							</attribute>
+							<attribute type="audio" visible="1" ordinal="2">
+								<name>track</name>
+								<value>${music29}Miles Davis - The Last Word, The Warner Bros. Years (2015) (HD)/Disc 8 - Live Performance from Nice Festival, France/07 - Time After Time (Live at Nice Festival, France, July 1986).flac</value>
+							</attribute>
+							<attribute type="integer" visible="1" ordinal="4">
+								<name>duration</name>
+								<value>442907</value>
+							</attribute>
+							<attribute type="string" visible="1" ordinal="0">
+								<name>artist</name>
+								<value>Disc 8</value>
+							</attribute>
+							<attribute type="number" visible="1" ordinal="7">
+								<name>gain</name>
+								<value>0.85</value>
+							</attribute>
+						</page>
+					</pages>
+					<links/>
+					<children/>
+				</entity>
+				<entity type="3" catalog="1">
+					<name>08 - Carnival Time (Live at Nice Festival, France, July 1986)</name>
+					<pages>
+						<page name="detail" visible="1">
+							<attribute type="string" visible="1" ordinal="1">
+								<name>title</name>
+								<value>08 - Carnival Time (Live at Nice Festival, France, July 1986)</value>
+							</attribute>
+							<attribute type="audio" visible="1" ordinal="2">
+								<name>track</name>
+								<value>${music29}Miles Davis - The Last Word, The Warner Bros. Years (2015) (HD)/Disc 8 - Live Performance from Nice Festival, France/08 - Carnival Time (Live at Nice Festival, France, July 1986).flac</value>
+							</attribute>
+							<attribute type="integer" visible="1" ordinal="4">
+								<name>duration</name>
+								<value>259853</value>
+							</attribute>
+							<attribute type="string" visible="1" ordinal="0">
+								<name>artist</name>
+								<value>Disc 8</value>
+							</attribute>
+							<attribute type="number" visible="1" ordinal="7">
+								<name>gain</name>
+								<value>0.85</value>
+							</attribute>
+						</page>
+					</pages>
+					<links/>
+					<children/>
+				</entity>
+			</children>
+		</entity>
+	</children>
+</entity>
