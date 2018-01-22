@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="1">
+        <file>
+            <url>ojAjax.php</url>
+            <bookmark id="1">
+                <name/>
+                <line>400</line>
+                <key/>
+            </bookmark>
+        </file>
+    </editor-bookmarks>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/var/www/html/openjean/scripts/get_default_attributes.php</file>
+            <file>file:/var/www/html/openjean/scripts/modify_link.php</file>
+            <file>file:/var/www/html/openjean/scripts/tidy_artists.php</file>
+            <file>file:/var/www/html/openjean/oj_multimedia.php</file>
+            <file>file:/var/www/html/openjean/scripts/update_artists.php</file>
+            <file>file:/var/www/html/openjean/css/oj.css</file>
+            <file>file:/var/www/html/openjean/scripts/delete_page.php</file>
+            <file>file:/var/www/html/openjean/scripts/add_link.php</file>
+            <file>file:/var/www/html/openjean/js/oj_multimedia.js</file>
+            <file>file:/var/www/html/openjean/ojHTML.php</file>
+            <file>file:/var/www/html/openjean/scripts/set_subtype.php</file>
+            <file>file:/var/www/html/openjean/scripts/show_links.php</file>
+            <file>file:/var/www/html/openjean/scripts/set_indexentries.php</file>
+            <file>file:/var/www/html/openjean/js/ojfilters.js</file>
+            <file>file:/var/www/html/openjean/scripts/tidy_classical.php</file>
+            <file>file:/var/www/html/openjean/js/oj_rss.js</file>
+            <file>file:/var/www/html/openjean/scripts/check_get_artists_links.php</file>
+            <file>file:/var/www/html/openjean/js/oj.js</file>
+            <file>file:/var/www/html/openjean/oj_utility_classes.php</file>
+            <file>file:/var/www/html/openjean/scripts/delete_entity.php</file>
+            <file>file:/var/www/html/openjean/scripts/update_various_artists.php</file>
+            <file>file:/var/www/html/openjean/catalogs/entity.xml</file>
+            <file>file:/var/www/html/openjean/OJCatalogs.php</file>
+            <file>file:/var/www/html/openjean/OJDatabase.php</file>
+            <file>file:/var/www/html/openjean/index.php</file>
+            <file>file:/var/www/html/openjean/scripts/remove_artists_items_links.php</file>
+            <file>file:/var/www/html/openjean/scripts/check_mm_ids.php</file>
+            <file>file:/var/www/html/openjean/ojAjax.php</file>
+            <file>file:/var/www/html/openjean/scripts/check_enumerations.php</file>
+            <file>file:/var/www/html/openjean/scripts/get_attribute.php</file>
+            <file>file:/var/www/html/openjean/data/tmp.xml</file>
+            <file>file:/var/www/html/openjean/oj_notes.php</file>
+            <file>file:/var/www/html/openjean/catalogs/catalog.xml</file>
+            <file>file:/var/www/html/openjean/scripts/playlist_to_members.php</file>
+            <file>file:/var/www/html/openjean/oj_base_classes.php</file>
+        </group>
+    </open-files>
+</project-private>
